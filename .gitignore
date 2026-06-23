@@ -6,12 +6,6 @@
 *.csv
 
 # ── Large generated HTML map files (>5 MB each) ──────────
-approach_A.html
-approach_A_summary.html
-approach_B.html
-approach_B_summary.html
-site/approach_B_summary.html
-bengaluru_hotspots_interactive_map.html
 
 # ── Helper/dev scripts (not needed in production) ─────────
 inspect_plotly.js
