@@ -1,80 +1,92 @@
 {
-  "generated_at": "2026-06-21T14:26:31.451783",
-  "dataset_description": "Bengaluru Traffic Police (BTP) illegal parking violations, Jan–Apr 2024",
+  "generated_at": "2026-06-23T13:23:22.846751",
+  "pipeline": "Pipeline B — Footprint Reclamation",
+  "pipeline_description": "Footprint reclamation hybrid approach: each confirmed junction's 95th-percentile spatial radius is computed; 'No Junction' records falling within that radius are reassigned to the nearest junction before HDBSCAN clustering of the remainder. 11,788 mislabeled points reclaimed into confirmed junctions.",
+  "reclamation_applied": true,
+  "reclaimed_points": 11788,
+  "dataset_description": "Bengaluru Traffic Police (BTP) illegal parking violations, Jan–May 2024",
   "total_input_violations": 298450,
-  "total_violations_in_analysis": 267906,
-  "total_hotspots_identified": 2221,
+  "total_violations_in_analysis": 259823,
+  "noise_excluded": 38627,
+  "noise_excluded_pct": 12.94,
+  "total_hotspots_identified": 4208,
   "hotspot_type_breakdown": {
     "confirmed_junction": 168,
-    "unofficial_hotspot": 77,
-    "small_street_hotspot": 1976
+    "unofficial_hotspot": 57,
+    "small_street_hotspot": 3983
   },
   "top_5_hotspots_by_impact_score": [
     {
       "rank": 1,
       "name": "BTP051 - Safina Plaza Junction",
       "type": "confirmed_junction",
-      "impact_score": 81.37,
-      "total_violations": 15449
+      "impact_score": 81.18,
+      "total_violations": 17001
     },
     {
       "rank": 2,
       "name": "BTP082 - KR Market Junction",
       "type": "confirmed_junction",
-      "impact_score": 65.34,
+      "impact_score": 61.36,
       "total_violations": 11538
     },
     {
       "rank": 3,
       "name": "BTP044 - Sagar Theatre Junction",
       "type": "confirmed_junction",
-      "impact_score": 64.61,
+      "impact_score": 60.92,
       "total_violations": 10549
     },
     {
       "rank": 4,
       "name": "BTP040 - Elite Junction",
       "type": "confirmed_junction",
-      "impact_score": 64.19,
+      "impact_score": 60.43,
       "total_violations": 10718
     },
     {
       "rank": 5,
-      "name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)",
-      "type": "unofficial_hotspot",
-      "impact_score": 63.6,
-      "total_violations": 8819
+      "name": "BTP058 - Subbanna Junction",
+      "type": "confirmed_junction",
+      "impact_score": 44.5,
+      "total_violations": 5227
     }
   ],
   "peak_enforcement_hours": {
-    "definition": "Hours 0–6 and 19–23 (10 PM – 6 AM window)",
-    "avg_peak_hour_pct_across_hotspots": 86.67,
+    "definition": "Morning 08:00–10:00 and Evening 17:00–20:00",
+    "avg_peak_hour_pct_across_hotspots": 86.93,
     "hotspot_with_highest_peak_concentration": "BTP180 - Swagath Poornima Theatre",
-    "narrative": "On average, 86.67% of violations per hotspot occur during the defined peak enforcement hours (10 PM – 6 AM). This pattern likely reflects night patrol scheduling rather than actual daytime congestion."
+    "narrative": "On average, 86.93% of violations per hotspot occur during defined peak hours (08:00–10:00 and 17:00–20:00), reflecting commuter-period congestion patterns."
   },
   "repeat_offenders_summary": {
-    "total_vehicles_with_repeat_violations": 35587,
+    "total_vehicles_with_repeat_violations": 35585,
     "top_vehicle_occurrences": 55,
     "top_vehicle_number": "FKN00GL4424",
-    "pct_violations_from_repeat_offenders": 38.13
+    "pct_violations_from_repeat_offenders": 39.31
   },
   "police_stations_summary": {
     "total_stations": 54,
     "highest_avg_impact_score_station": "Shivajinagar",
-    "highest_avg_impact_score": 61.28
+    "highest_avg_impact_score": 63.83
   },
   "headline_insights": [
-    "The top-ranked hotspot is 'BTP051 - Safina Plaza Junction' with an impact score of 81.37 and 15,449 violations.",
-    "168 of 2221 hotspots are confirmed BTP junctions already known to enforcement; 2053 were newly discovered.",
-    "35,587 vehicles have been cited more than once; the most chronic offender has been cited 55 times.",
-    "Street-grouped HDBSCAN was used to prevent road-network chaining — a spatial clustering failure mode where a continuous road fuses into one artificially large false cluster.",
-    "Impact scores combine violation frequency (30%), congestion-severity weighted violation type (30%), peak-hour concentration (20%), and average vehicle footprint weight (20%), with a confidence discount for low-volume hotspots."
+    "The top-ranked hotspot is 'BTP051 - Safina Plaza Junction' with an impact score of 81.18 and 17,001 violations.",
+    "168 of 4208 hotspots are confirmed BTP junctions; 4040 were newly discovered via clustering.",
+    "35,585 vehicles have been cited more than once; the most chronic offender has been cited 55 times.",
+    "Street-grouped HDBSCAN with compound street+locality key prevents road-network chaining — a spatial clustering failure where a continuous road fuses into one artificially large false cluster.",
+    "Impact scores combine violation frequency (30%), congestion-severity weighted violation type (30%), peak-hour concentration (20%), and average vehicle footprint weight (20%), with a confidence discount for low-volume hotspots.",
+    "Footprint reclamation reassigned 11,788 'No Junction' records into their nearest confirmed junction before clustering."
   ],
   "methodology_notes": {
     "clustering_approach": "Street-grouped HDBSCAN (min_cluster_size=100, min_samples=100)",
+    "street_grouping_key": "Compound street+locality key (first and last clean address segment) to prevent cross-neighborhood merging",
     "junction_first_strategy": "168 BTP named junctions used as ground truth; 'No Junction' records clustered separately",
-    "impact_score_range": "0–100 (min-max normalized per component, then confidence-discounted)",
+    "footprint_reclamation": true,
+    "footprint_radius_percentile": "95th percentile of intra-junction point distances",
+    "impact_score_range": "0–100 (min-max normalized per component, confidence-discounted)",
     "confidence_min_volume": 100,
-    "noise_excluded_from_scores": true
+    "noise_excluded_from_scores": true,
+    "mega_group_threshold": 500,
+    "small_group_threshold": 100
   }
 }

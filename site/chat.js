@@ -217,6 +217,9 @@
       hotspotsByScore = [...hotspots].sort((a, b) => (b.impact_score ?? 0) - (a.impact_score ?? 0));
       stationNames    = stations.map(s => (s.police_station ?? '').toLowerCase());
 
+      // Expose to window for index.html (Hotspot Panel)
+      window.gridlockData = { hotspots, offenders, stations, keyFindings };
+
       dataLoaded  = true;
       dataLoading = false;
       setStatus('ready', 'Ready');

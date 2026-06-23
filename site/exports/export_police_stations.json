@@ -1,380 +1,380 @@
 [
   {
     "police_station": "Shivajinagar",
-    "total_violations": 28112,
-    "num_hotspots": 69,
-    "avg_impact_score": 61.28,
+    "total_violations": 28094,
+    "num_hotspots": 67,
+    "avg_impact_score": 63.83,
     "top_hotspot_name": "BTP051 - Safina Plaza Junction"
   },
   {
     "police_station": "Upparpet",
-    "total_violations": 34482,
-    "num_hotspots": 21,
-    "avg_impact_score": 54.47,
+    "total_violations": 34478,
+    "num_hotspots": 19,
+    "avg_impact_score": 51.73,
     "top_hotspot_name": "BTP044 - Sagar Theatre Junction"
   },
   {
     "police_station": "City Market",
-    "total_violations": 17708,
-    "num_hotspots": 37,
-    "avg_impact_score": 51.19,
+    "total_violations": 17650,
+    "num_hotspots": 20,
+    "avg_impact_score": 49.13,
     "top_hotspot_name": "BTP082 - KR Market Junction"
-  },
-  {
-    "police_station": "HAL Old Airport",
-    "total_violations": 21251,
-    "num_hotspots": 154,
-    "avg_impact_score": 44.45,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "K.R. Pura",
-    "total_violations": 6546,
-    "num_hotspots": 78,
-    "avg_impact_score": 43.14,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Chikkajala",
-    "total_violations": 5925,
-    "num_hotspots": 40,
-    "avg_impact_score": 40.64,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
   },
   {
     "police_station": "V.V.Puram (C.Pet)",
     "total_violations": 1556,
     "num_hotspots": 16,
-    "avg_impact_score": 40.37,
+    "avg_impact_score": 38.71,
     "top_hotspot_name": "BTP082 - KR Market Junction"
-  },
-  {
-    "police_station": "Banaswadi",
-    "total_violations": 3759,
-    "num_hotspots": 86,
-    "avg_impact_score": 39.09,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Bellandur",
-    "total_violations": 5156,
-    "num_hotspots": 100,
-    "avg_impact_score": 39.04,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Mahadevapura",
-    "total_violations": 6187,
-    "num_hotspots": 93,
-    "avg_impact_score": 37.96,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
   },
   {
     "police_station": "Halasuru Gate",
     "total_violations": 6294,
     "num_hotspots": 22,
-    "avg_impact_score": 37.84,
+    "avg_impact_score": 36.56,
     "top_hotspot_name": "BTP082 - KR Market Junction"
   },
   {
-    "police_station": "Hebbala",
-    "total_violations": 3259,
-    "num_hotspots": 41,
-    "avg_impact_score": 34.71,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Kodigehalli",
-    "total_violations": 11026,
-    "num_hotspots": 78,
-    "avg_impact_score": 33.54,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Devanahalli Airport",
-    "total_violations": 940,
-    "num_hotspots": 34,
-    "avg_impact_score": 33.36,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
+    "police_station": "Chikkajala",
+    "total_violations": 5925,
+    "num_hotspots": 52,
+    "avg_impact_score": 34.81,
+    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road | Begur Chikkanahalli (High-Volume Corridor)"
   },
   {
     "police_station": "Malleshwaram",
-    "total_violations": 22494,
-    "num_hotspots": 130,
-    "avg_impact_score": 32.17,
-    "top_hotspot_name": "Malleshwaram - Sri Venkataranga Ayangar Road (High-Volume Corridor)"
+    "total_violations": 22450,
+    "num_hotspots": 160,
+    "avg_impact_score": 32.12,
+    "top_hotspot_name": "BTP001 - 10th Cross, Dr. Rajkumar Road"
   },
   {
     "police_station": "High ground",
-    "total_violations": 4957,
-    "num_hotspots": 36,
-    "avg_impact_score": 31.82,
+    "total_violations": 4953,
+    "num_hotspots": 29,
+    "avg_impact_score": 31.23,
     "top_hotspot_name": "BTP058 - Subbanna Junction"
   },
   {
     "police_station": "Vijayanagara",
     "total_violations": 14656,
-    "num_hotspots": 47,
-    "avg_impact_score": 31.75,
+    "num_hotspots": 35,
+    "avg_impact_score": 31.07,
     "top_hotspot_name": "BTP027 - Modi Bridge Junction"
   },
   {
     "police_station": "Chamarajpet",
-    "total_violations": 3797,
-    "num_hotspots": 30,
-    "avg_impact_score": 30.89,
+    "total_violations": 3795,
+    "num_hotspots": 11,
+    "avg_impact_score": 30.95,
     "top_hotspot_name": "BTP057 - Anand Rao Junction"
+  },
+  {
+    "police_station": "HAL Old Airport",
+    "total_violations": 21251,
+    "num_hotspots": 261,
+    "avg_impact_score": 29.55,
+    "top_hotspot_name": "Kadubisanahalli - New Horizon College Road | Kadubisanahalli (High-Volume Corridor)"
   },
   {
     "police_station": "Rajajinagar",
     "total_violations": 11090,
-    "num_hotspots": 88,
-    "avg_impact_score": 30.75,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
+    "num_hotspots": 162,
+    "avg_impact_score": 28.59,
+    "top_hotspot_name": "BTP027 - Modi Bridge Junction"
   },
   {
-    "police_station": "Cubbon Park",
-    "total_violations": 3273,
-    "num_hotspots": 48,
-    "avg_impact_score": 27.13,
-    "top_hotspot_name": "BTP051 - Safina Plaza Junction"
+    "police_station": "Kodigehalli",
+    "total_violations": 11028,
+    "num_hotspots": 188,
+    "avg_impact_score": 28.2,
+    "top_hotspot_name": "Byatarayanapura - Sahakar Nagar Road | Byatarayanapura (High-Volume Corridor)"
   },
   {
     "police_station": "Magadi Road",
-    "total_violations": 8574,
-    "num_hotspots": 49,
-    "avg_impact_score": 26.31,
+    "total_violations": 8558,
+    "num_hotspots": 18,
+    "avg_impact_score": 27.32,
     "top_hotspot_name": "BTP020 - Hosahalli Metro Station"
   },
   {
-    "police_station": "Madiwala",
-    "total_violations": 1567,
+    "police_station": "Hebbala",
+    "total_violations": 3259,
     "num_hotspots": 56,
-    "avg_impact_score": 25.62,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
+    "avg_impact_score": 27.27,
+    "top_hotspot_name": "Byatarayanapura - Sahakar Nagar Road | Byatarayanapura (High-Volume Corridor)"
   },
   {
-    "police_station": "Sheshadripuram",
-    "total_violations": 3186,
-    "num_hotspots": 63,
-    "avg_impact_score": 25.47,
-    "top_hotspot_name": "Malleshwaram - Sri Venkataranga Ayangar Road (High-Volume Corridor)"
+    "police_station": "K.R. Pura",
+    "total_violations": 6546,
+    "num_hotspots": 128,
+    "avg_impact_score": 27.2,
+    "top_hotspot_name": "KR Puram - MBT Road | KR Puram (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Cubbon Park",
+    "total_violations": 3271,
+    "num_hotspots": 58,
+    "avg_impact_score": 26.96,
+    "top_hotspot_name": "BTP051 - Safina Plaza Junction"
+  },
+  {
+    "police_station": "Devanahalli Airport",
+    "total_violations": 940,
+    "num_hotspots": 50,
+    "avg_impact_score": 26.84,
+    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road | Begur Chikkanahalli (High-Volume Corridor)"
   },
   {
     "police_station": "Basavanagudi",
     "total_violations": 3604,
-    "num_hotspots": 44,
-    "avg_impact_score": 25.46,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "R.T. Nagar",
-    "total_violations": 1772,
-    "num_hotspots": 50,
-    "avg_impact_score": 25.43,
-    "top_hotspot_name": "Hebbal - Bellary Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Byatarayanapura",
-    "total_violations": 4555,
-    "num_hotspots": 48,
-    "avg_impact_score": 25.35,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Whitefield",
-    "total_violations": 2303,
-    "num_hotspots": 80,
-    "avg_impact_score": 24.85,
-    "top_hotspot_name": "Kundalhalli - ITPL Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Hulimavu",
-    "total_violations": 2941,
-    "num_hotspots": 59,
-    "avg_impact_score": 24.85,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Halasur",
-    "total_violations": 4055,
-    "num_hotspots": 79,
-    "avg_impact_score": 24.7,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Sadashivanagar",
-    "total_violations": 1471,
-    "num_hotspots": 46,
-    "avg_impact_score": 24.6,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
+    "num_hotspots": 56,
+    "avg_impact_score": 24.74,
+    "top_hotspot_name": "BTP214 - 5th Main Chamrajpet  Junction"
   },
   {
     "police_station": "Jayanagara",
     "total_violations": 3813,
-    "num_hotspots": 32,
-    "avg_impact_score": 23.95,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Jeevanbheemanagar",
-    "total_violations": 6740,
-    "num_hotspots": 104,
-    "avg_impact_score": 23.89,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "num_hotspots": 34,
+    "avg_impact_score": 23.58,
+    "top_hotspot_name": "BTP216 - Yediyur Junction"
   },
   {
     "police_station": "Wilson Garden",
     "total_violations": 3108,
-    "num_hotspots": 39,
-    "avg_impact_score": 23.84,
-    "top_hotspot_name": "Garvebhavi Palya - Hosur Road (High-Volume Corridor)"
+    "num_hotspots": 49,
+    "avg_impact_score": 23.07,
+    "top_hotspot_name": "BTP180 - Swagath Poornima Theatre"
+  },
+  {
+    "police_station": "Madiwala",
+    "total_violations": 1567,
+    "num_hotspots": 75,
+    "avg_impact_score": 22.4,
+    "top_hotspot_name": "Garvebhavi Palya - Hosur Road | Garvebhavi Palya (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Mahadevapura",
+    "total_violations": 6187,
+    "num_hotspots": 159,
+    "avg_impact_score": 22.4,
+    "top_hotspot_name": "Kundalhalli - ITPL Main Road | Kundalhalli (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Byatarayanapura",
+    "total_violations": 4857,
+    "num_hotspots": 90,
+    "avg_impact_score": 22.22,
+    "top_hotspot_name": "BTP098 - Nayandahalli Junction"
   },
   {
     "police_station": "Mico Layout",
     "total_violations": 2588,
-    "num_hotspots": 43,
-    "avg_impact_score": 23.7,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
+    "num_hotspots": 54,
+    "avg_impact_score": 22.02,
+    "top_hotspot_name": "BTP126 - Dairy Circle"
+  },
+  {
+    "police_station": "Bellandur",
+    "total_violations": 5156,
+    "num_hotspots": 144,
+    "avg_impact_score": 21.96,
+    "top_hotspot_name": "Kariyammana Agrahara - Outer Ring Road | Kariyammana Agrahara (High-Volume Corridor)"
   },
   {
     "police_station": "Ashok Nagar",
     "total_violations": 3536,
-    "num_hotspots": 62,
-    "avg_impact_score": 23.17,
+    "num_hotspots": 90,
+    "avg_impact_score": 21.87,
     "top_hotspot_name": "BTP051 - Safina Plaza Junction"
-  },
-  {
-    "police_station": "Kamakshipalya",
-    "total_violations": 1431,
-    "num_hotspots": 41,
-    "avg_impact_score": 23.09,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
   },
   {
     "police_station": "Adugodi",
     "total_violations": 3336,
-    "num_hotspots": 68,
-    "avg_impact_score": 22.97,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
+    "num_hotspots": 80,
+    "avg_impact_score": 21.42,
+    "top_hotspot_name": "Koramangala - Srinivagilu Main Road | Koramangala (High-Volume Corridor)"
   },
   {
-    "police_station": "Yelahanka",
-    "total_violations": 2599,
-    "num_hotspots": 78,
-    "avg_impact_score": 22.51,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
+    "police_station": "Sheshadripuram",
+    "total_violations": 3186,
+    "num_hotspots": 89,
+    "avg_impact_score": 21.04,
+    "top_hotspot_name": "BTP057 - Anand Rao Junction"
   },
   {
-    "police_station": "HSR Layout",
-    "total_violations": 5096,
-    "num_hotspots": 127,
-    "avg_impact_score": 22.51,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Electronic City",
-    "total_violations": 4357,
-    "num_hotspots": 96,
-    "avg_impact_score": 22.42,
-    "top_hotspot_name": "Begur Chikkanahalli - Unnamed Road (High-Volume Corridor)"
+    "police_station": "Halasur",
+    "total_violations": 4051,
+    "num_hotspots": 101,
+    "avg_impact_score": 20.62,
+    "top_hotspot_name": "Ashok Nagar - Mahatma Gandhi Road | Ashok Nagar (High-Volume Corridor)"
   },
   {
     "police_station": "J.P. Nagar",
     "total_violations": 1637,
-    "num_hotspots": 43,
-    "avg_impact_score": 21.71,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "num_hotspots": 51,
+    "avg_impact_score": 19.59,
+    "top_hotspot_name": "BTP202 - East End Main Road, Jayanagar"
   },
   {
-    "police_station": "K.G. Halli",
-    "total_violations": 904,
-    "num_hotspots": 56,
-    "avg_impact_score": 21.46,
-    "top_hotspot_name": "KR Puram - MBT Road (High-Volume Corridor)"
+    "police_station": "Banaswadi",
+    "total_violations": 3759,
+    "num_hotspots": 161,
+    "avg_impact_score": 19.5,
+    "top_hotspot_name": "Dooravani Nagar - MBT Road | Dooravani Nagar (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Jeevanbheemanagar",
+    "total_violations": 6746,
+    "num_hotspots": 174,
+    "avg_impact_score": 18.38,
+    "top_hotspot_name": "Halasuru - Old Madras Road | Halasuru (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Hulimavu",
+    "total_violations": 2941,
+    "num_hotspots": 102,
+    "avg_impact_score": 18.04,
+    "top_hotspot_name": "Garvebhavi Palya - Hosur Road | Garvebhavi Palya (High-Volume Corridor)"
   },
   {
     "police_station": "Banashankari",
     "total_violations": 1202,
-    "num_hotspots": 58,
-    "avg_impact_score": 20.28,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "num_hotspots": 66,
+    "avg_impact_score": 17.69,
+    "top_hotspot_name": "BTP214 - 5th Main Chamrajpet  Junction"
   },
   {
-    "police_station": "Thalagattapura",
-    "total_violations": 870,
-    "num_hotspots": 47,
-    "avg_impact_score": 20.23,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "police_station": "Yelahanka",
+    "total_violations": 2599,
+    "num_hotspots": 129,
+    "avg_impact_score": 17.14,
+    "top_hotspot_name": "Byatarayanapura - Sahakar Nagar Road | Byatarayanapura (High-Volume Corridor)"
   },
   {
-    "police_station": "Jnanabharathi",
-    "total_violations": 1063,
-    "num_hotspots": 39,
-    "avg_impact_score": 19.47,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "police_station": "Whitefield",
+    "total_violations": 2303,
+    "num_hotspots": 110,
+    "avg_impact_score": 15.94,
+    "top_hotspot_name": "Kundalhalli - ITPL Main Road | Kundalhalli (High-Volume Corridor)"
   },
   {
-    "police_station": "Yeshwanthpura",
-    "total_violations": 2671,
-    "num_hotspots": 78,
-    "avg_impact_score": 19.1,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "K.S. Layout",
-    "total_violations": 828,
-    "num_hotspots": 44,
-    "avg_impact_score": 17.9,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Hennuru",
-    "total_violations": 892,
-    "num_hotspots": 55,
-    "avg_impact_score": 16.84,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
-  },
-  {
-    "police_station": "Peenya",
-    "total_violations": 974,
-    "num_hotspots": 58,
-    "avg_impact_score": 16.14,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "police_station": "HSR Layout",
+    "total_violations": 5096,
+    "num_hotspots": 178,
+    "avg_impact_score": 15.49,
+    "top_hotspot_name": "Garvebhavi Palya - Hosur Road | Garvebhavi Palya (High-Volume Corridor)"
   },
   {
     "police_station": "Pulikeshinagar(F.Town)",
     "total_violations": 4248,
-    "num_hotspots": 113,
-    "avg_impact_score": 15.65,
-    "top_hotspot_name": "Koramangala - 1st Cross Road (High-Volume Corridor)"
+    "num_hotspots": 159,
+    "avg_impact_score": 13.13,
+    "top_hotspot_name": "Unknown (Discovered Area - Unclear Address)"
+  },
+  {
+    "police_station": "Kamakshipalya",
+    "total_violations": 1431,
+    "num_hotspots": 75,
+    "avg_impact_score": 12.87,
+    "top_hotspot_name": "BTP208 - Havanur Circle"
+  },
+  {
+    "police_station": "Sadashivanagar",
+    "total_violations": 1471,
+    "num_hotspots": 95,
+    "avg_impact_score": 12.27,
+    "top_hotspot_name": "Malleshwaram West - 18th Cross Road | Malleshwaram West (High-Volume Corridor)"
+  },
+  {
+    "police_station": "K.S. Layout",
+    "total_violations": 828,
+    "num_hotspots": 76,
+    "avg_impact_score": 11.08,
+    "top_hotspot_name": "BTP115 - Sahasra Hospital, Jayanagar"
+  },
+  {
+    "police_station": "Yeshwanthpura",
+    "total_violations": 2671,
+    "num_hotspots": 114,
+    "avg_impact_score": 11.07,
+    "top_hotspot_name": "Unknown (Discovered Area - Unclear Address)"
+  },
+  {
+    "police_station": "R.T. Nagar",
+    "total_violations": 1772,
+    "num_hotspots": 109,
+    "avg_impact_score": 10.95,
+    "top_hotspot_name": "Hebbal - Bellary Road | Hebbal (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Hennuru",
+    "total_violations": 892,
+    "num_hotspots": 83,
+    "avg_impact_score": 10.56,
+    "top_hotspot_name": "Hegde Nagar - Thanisandra Main Road | Hegde Nagar (Small Hotspot)"
+  },
+  {
+    "police_station": "Electronic City",
+    "total_violations": 4357,
+    "num_hotspots": 160,
+    "avg_impact_score": 10.1,
+    "top_hotspot_name": "Garvebhavi Palya - Hosur Road | Garvebhavi Palya (High-Volume Corridor)"
+  },
+  {
+    "police_station": "Peenya",
+    "total_violations": 974,
+    "num_hotspots": 86,
+    "avg_impact_score": 9.4,
+    "top_hotspot_name": "Laggere - Laggere Service Road | Laggere (Small Hotspot)"
+  },
+  {
+    "police_station": "K.G. Halli",
+    "total_violations": 904,
+    "num_hotspots": 91,
+    "avg_impact_score": 8.88,
+    "top_hotspot_name": "HBR Layout - 9th Main Road | HBR Layout (Small Hotspot)"
   },
   {
     "police_station": "Jalahalli",
-    "total_violations": 1176,
-    "num_hotspots": 52,
-    "avg_impact_score": 13.89,
-    "top_hotspot_name": "Kadubisanahalli - Outer Ring Road (High-Volume Corridor)"
+    "total_violations": 1178,
+    "num_hotspots": 74,
+    "avg_impact_score": 8.67,
+    "top_hotspot_name": "Unknown (Discovered Area - Unclear Address)"
+  },
+  {
+    "police_station": "Chikkabanavara",
+    "total_violations": 785,
+    "num_hotspots": 88,
+    "avg_impact_score": 8.36,
+    "top_hotspot_name": "T Dasarahalli - Hesaraghatta Main Road | T Dasarahalli (Small Hotspot)"
+  },
+  {
+    "police_station": "Thalagattapura",
+    "total_violations": 870,
+    "num_hotspots": 89,
+    "avg_impact_score": 7.74,
+    "top_hotspot_name": "Konanakunte - Konanakunte Main Road | Konanakunte (Small Hotspot)"
   },
   {
     "police_station": "No Police Station",
     "total_violations": 339,
-    "num_hotspots": 41,
-    "avg_impact_score": 13.06,
+    "num_hotspots": 48,
+    "avg_impact_score": 7.67,
     "top_hotspot_name": "BTP082 - KR Market Junction"
   },
   {
     "police_station": "Kengeri",
     "total_violations": 464,
-    "num_hotspots": 38,
-    "avg_impact_score": 12.93,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "num_hotspots": 55,
+    "avg_impact_score": 7.09,
+    "top_hotspot_name": "Nagadevanahalli - Kengeri Main Road | Nagadevanahalli (Small Hotspot)"
   },
   {
-    "police_station": "Chikkabanavara",
-    "total_violations": 785,
-    "num_hotspots": 59,
-    "avg_impact_score": 10.41,
-    "top_hotspot_name": "Sadduguntepalya - 1st Main Road (High-Volume Corridor)"
+    "police_station": "Jnanabharathi",
+    "total_violations": 1063,
+    "num_hotspots": 86,
+    "avg_impact_score": 4.54,
+    "top_hotspot_name": "Nagadevanahalli - Kengeri Main Road | Nagadevanahalli (Small Hotspot)"
   }
 ]

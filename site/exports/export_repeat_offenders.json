@@ -63,15 +63,6 @@
     "avg_validation_turnaround_hours": 40.37
   },
   {
-    "vehicle_number": "FKN00GL1875",
-    "total_occurrences": 30,
-    "unique_creators": 16,
-    "first_seen": "2023-11-12T02:21:46+00:00",
-    "last_seen": "2024-03-15T05:24:46+00:00",
-    "avg_days_between_occurrences": 4.28,
-    "avg_validation_turnaround_hours": 73.03
-  },
-  {
     "vehicle_number": "FKN00GL19337",
     "total_occurrences": 30,
     "unique_creators": 9,
@@ -81,6 +72,15 @@
     "avg_validation_turnaround_hours": 148.62
   },
   {
+    "vehicle_number": "FKN00GL1875",
+    "total_occurrences": 30,
+    "unique_creators": 16,
+    "first_seen": "2023-11-12T02:21:46+00:00",
+    "last_seen": "2024-03-15T05:24:46+00:00",
+    "avg_days_between_occurrences": 4.28,
+    "avg_validation_turnaround_hours": 73.03
+  },
+  {
     "vehicle_number": "FKN00GL9852",
     "total_occurrences": 29,
     "unique_creators": 17,
@@ -88,6 +88,15 @@
     "last_seen": "2024-03-30T09:30:46+00:00",
     "avg_days_between_occurrences": 5.0,
     "avg_validation_turnaround_hours": 35.59
+  },
+  {
+    "vehicle_number": "FKN00GL15753",
+    "total_occurrences": 28,
+    "unique_creators": 15,
+    "first_seen": "2023-11-11T04:12:46+00:00",
+    "last_seen": "2024-04-08T08:30:46+00:00",
+    "avg_days_between_occurrences": 5.53,
+    "avg_validation_turnaround_hours": 75.82
   },
   {
     "vehicle_number": "FKN00GL1118",
@@ -108,13 +117,13 @@
     "avg_validation_turnaround_hours": 36.32
   },
   {
-    "vehicle_number": "FKN00GL15753",
-    "total_occurrences": 28,
-    "unique_creators": 15,
-    "first_seen": "2023-11-11T04:12:46+00:00",
-    "last_seen": "2024-04-08T08:30:46+00:00",
-    "avg_days_between_occurrences": 5.53,
-    "avg_validation_turnaround_hours": 75.82
+    "vehicle_number": "FKN00GL8564",
+    "total_occurrences": 27,
+    "unique_creators": 14,
+    "first_seen": "2023-11-16T05:46:46+00:00",
+    "last_seen": "2024-04-01T05:49:46+00:00",
+    "avg_days_between_occurrences": 5.27,
+    "avg_validation_turnaround_hours": 103.91
   },
   {
     "vehicle_number": "FKN00GL8041",
@@ -124,15 +133,6 @@
     "last_seen": "2024-03-19T01:31:46+00:00",
     "avg_days_between_occurrences": 3.19,
     "avg_validation_turnaround_hours": 16.5
-  },
-  {
-    "vehicle_number": "FKN00GL8564",
-    "total_occurrences": 27,
-    "unique_creators": 14,
-    "first_seen": "2023-11-16T05:46:46+00:00",
-    "last_seen": "2024-04-01T05:49:46+00:00",
-    "avg_days_between_occurrences": 5.27,
-    "avg_validation_turnaround_hours": 103.91
   },
   {
     "vehicle_number": "FKN00GL8361",
@@ -153,15 +153,6 @@
     "avg_validation_turnaround_hours": 95.73
   },
   {
-    "vehicle_number": "FKN00GL20818",
-    "total_occurrences": 26,
-    "unique_creators": 12,
-    "first_seen": "2024-01-04T03:13:46+00:00",
-    "last_seen": "2024-04-03T01:25:46+00:00",
-    "avg_days_between_occurrences": 3.6,
-    "avg_validation_turnaround_hours": 29.62
-  },
-  {
     "vehicle_number": "FKN00GL24601",
     "total_occurrences": 26,
     "unique_creators": 16,
@@ -171,13 +162,13 @@
     "avg_validation_turnaround_hours": 45.07
   },
   {
-    "vehicle_number": "FKN00GL32387",
-    "total_occurrences": 25,
-    "unique_creators": 13,
-    "first_seen": "2023-11-10T00:00:46+00:00",
-    "last_seen": "2024-04-07T20:01:46+00:00",
-    "avg_days_between_occurrences": 6.24,
-    "avg_validation_turnaround_hours": 73.89
+    "vehicle_number": "FKN00GL20818",
+    "total_occurrences": 26,
+    "unique_creators": 12,
+    "first_seen": "2024-01-04T03:13:46+00:00",
+    "last_seen": "2024-04-03T01:25:46+00:00",
+    "avg_days_between_occurrences": 3.6,
+    "avg_validation_turnaround_hours": 29.62
   },
   {
     "vehicle_number": "FKN00GL7963",
@@ -187,6 +178,15 @@
     "last_seen": "2024-03-22T05:47:46+00:00",
     "avg_days_between_occurrences": 4.04,
     "avg_validation_turnaround_hours": 42.23
+  },
+  {
+    "vehicle_number": "FKN00GL32387",
+    "total_occurrences": 25,
+    "unique_creators": 13,
+    "first_seen": "2023-11-10T00:00:46+00:00",
+    "last_seen": "2024-04-07T20:01:46+00:00",
+    "avg_days_between_occurrences": 6.24,
+    "avg_validation_turnaround_hours": 73.89
   },
   {
     "vehicle_number": "FKN00GL1498",
@@ -207,13 +207,13 @@
     "avg_validation_turnaround_hours": 28.94
   },
   {
-    "vehicle_number": "FKN00GL0635",
+    "vehicle_number": "FKN00GL2445",
     "total_occurrences": 24,
-    "unique_creators": 9,
-    "first_seen": "2023-12-16T05:14:46+00:00",
-    "last_seen": "2024-03-28T08:02:46+00:00",
-    "avg_days_between_occurrences": 4.48,
-    "avg_validation_turnaround_hours": 85.45
+    "unique_creators": 7,
+    "first_seen": "2023-11-18T00:52:46+00:00",
+    "last_seen": "2024-03-26T23:26:46+00:00",
+    "avg_days_between_occurrences": 5.65,
+    "avg_validation_turnaround_hours": 183.07
   },
   {
     "vehicle_number": "FKN00GL2819",
@@ -225,6 +225,15 @@
     "avg_validation_turnaround_hours": 61.03
   },
   {
+    "vehicle_number": "FKN00GL0635",
+    "total_occurrences": 24,
+    "unique_creators": 9,
+    "first_seen": "2023-12-16T05:14:46+00:00",
+    "last_seen": "2024-03-28T08:02:46+00:00",
+    "avg_days_between_occurrences": 4.48,
+    "avg_validation_turnaround_hours": 85.45
+  },
+  {
     "vehicle_number": "FKN00GL9182",
     "total_occurrences": 24,
     "unique_creators": 12,
@@ -232,24 +241,6 @@
     "last_seen": "2024-03-10T04:44:46+00:00",
     "avg_days_between_occurrences": 4.96,
     "avg_validation_turnaround_hours": 70.13
-  },
-  {
-    "vehicle_number": "FKN00GL0395",
-    "total_occurrences": 24,
-    "unique_creators": 12,
-    "first_seen": "2023-11-15T22:28:46+00:00",
-    "last_seen": "2024-04-03T03:38:46+00:00",
-    "avg_days_between_occurrences": 6.05,
-    "avg_validation_turnaround_hours": 80.01
-  },
-  {
-    "vehicle_number": "FKN00GL2445",
-    "total_occurrences": 24,
-    "unique_creators": 7,
-    "first_seen": "2023-11-18T00:52:46+00:00",
-    "last_seen": "2024-03-26T23:26:46+00:00",
-    "avg_days_between_occurrences": 5.65,
-    "avg_validation_turnaround_hours": 183.07
   },
   {
     "vehicle_number": "FKN00GL2692",
@@ -261,58 +252,13 @@
     "avg_validation_turnaround_hours": 75.85
   },
   {
-    "vehicle_number": "FKN00GL13920",
-    "total_occurrences": 23,
-    "unique_creators": 13,
-    "first_seen": "2023-11-11T09:19:46+00:00",
-    "last_seen": "2024-03-18T07:36:46+00:00",
-    "avg_days_between_occurrences": 5.81,
-    "avg_validation_turnaround_hours": 31.24
-  },
-  {
-    "vehicle_number": "FKN00GL21720",
-    "total_occurrences": 23,
+    "vehicle_number": "FKN00GL0395",
+    "total_occurrences": 24,
     "unique_creators": 12,
-    "first_seen": "2023-11-11T02:17:46+00:00",
-    "last_seen": "2024-04-04T04:11:46+00:00",
-    "avg_days_between_occurrences": 6.59,
-    "avg_validation_turnaround_hours": 133.68
-  },
-  {
-    "vehicle_number": "FKN00GL22956",
-    "total_occurrences": 23,
-    "unique_creators": 12,
-    "first_seen": "2023-11-15T20:29:46+00:00",
-    "last_seen": "2024-02-06T20:12:46+00:00",
-    "avg_days_between_occurrences": 3.77,
-    "avg_validation_turnaround_hours": 27.27
-  },
-  {
-    "vehicle_number": "FKN00GL2817",
-    "total_occurrences": 23,
-    "unique_creators": 4,
-    "first_seen": "2023-11-11T02:04:46+00:00",
-    "last_seen": "2024-03-17T03:16:46+00:00",
-    "avg_days_between_occurrences": 5.78,
-    "avg_validation_turnaround_hours": 48.22
-  },
-  {
-    "vehicle_number": "FKN00GL17388",
-    "total_occurrences": 23,
-    "unique_creators": 16,
-    "first_seen": "2023-11-10T04:56:46+00:00",
-    "last_seen": "2024-01-20T02:16:46+00:00",
-    "avg_days_between_occurrences": 3.22,
-    "avg_validation_turnaround_hours": 42.25
-  },
-  {
-    "vehicle_number": "FKN00GL6443",
-    "total_occurrences": 23,
-    "unique_creators": 5,
-    "first_seen": "2024-01-25T07:13:46+00:00",
-    "last_seen": "2024-02-10T05:09:46+00:00",
-    "avg_days_between_occurrences": 0.72,
-    "avg_validation_turnaround_hours": 59.12
+    "first_seen": "2023-11-15T22:28:46+00:00",
+    "last_seen": "2024-04-03T03:38:46+00:00",
+    "avg_days_between_occurrences": 6.05,
+    "avg_validation_turnaround_hours": 80.01
   },
   {
     "vehicle_number": "FKN00GL6355",
@@ -324,6 +270,15 @@
     "avg_validation_turnaround_hours": 251.11
   },
   {
+    "vehicle_number": "FKN00GL2817",
+    "total_occurrences": 23,
+    "unique_creators": 4,
+    "first_seen": "2023-11-11T02:04:46+00:00",
+    "last_seen": "2024-03-17T03:16:46+00:00",
+    "avg_days_between_occurrences": 5.78,
+    "avg_validation_turnaround_hours": 48.22
+  },
+  {
     "vehicle_number": "FKN00GL0333",
     "total_occurrences": 23,
     "unique_creators": 14,
@@ -333,40 +288,49 @@
     "avg_validation_turnaround_hours": 110.08
   },
   {
-    "vehicle_number": "FKN00GL2850",
-    "total_occurrences": 22,
+    "vehicle_number": "FKN00GL6443",
+    "total_occurrences": 23,
+    "unique_creators": 5,
+    "first_seen": "2024-01-25T07:13:46+00:00",
+    "last_seen": "2024-02-10T05:09:46+00:00",
+    "avg_days_between_occurrences": 0.72,
+    "avg_validation_turnaround_hours": 59.12
+  },
+  {
+    "vehicle_number": "FKN00GL13920",
+    "total_occurrences": 23,
     "unique_creators": 13,
-    "first_seen": "2023-11-17T04:28:46+00:00",
-    "last_seen": "2024-03-28T21:36:46+00:00",
-    "avg_days_between_occurrences": 6.32,
-    "avg_validation_turnaround_hours": 247.46
+    "first_seen": "2023-11-11T09:19:46+00:00",
+    "last_seen": "2024-03-18T07:36:46+00:00",
+    "avg_days_between_occurrences": 5.81,
+    "avg_validation_turnaround_hours": 31.24
   },
   {
-    "vehicle_number": "FKN00GL6353",
-    "total_occurrences": 22,
-    "unique_creators": 11,
-    "first_seen": "2023-11-14T07:00:46+00:00",
-    "last_seen": "2024-04-06T05:03:46+00:00",
-    "avg_days_between_occurrences": 6.85,
-    "avg_validation_turnaround_hours": 37.17
+    "vehicle_number": "FKN00GL17388",
+    "total_occurrences": 23,
+    "unique_creators": 16,
+    "first_seen": "2023-11-10T04:56:46+00:00",
+    "last_seen": "2024-01-20T02:16:46+00:00",
+    "avg_days_between_occurrences": 3.22,
+    "avg_validation_turnaround_hours": 42.25
   },
   {
-    "vehicle_number": "FKN00GL9334",
-    "total_occurrences": 22,
-    "unique_creators": 10,
-    "first_seen": "2023-11-21T00:24:46+00:00",
-    "last_seen": "2024-03-27T04:17:46+00:00",
-    "avg_days_between_occurrences": 6.06,
-    "avg_validation_turnaround_hours": 35.91
+    "vehicle_number": "FKN00GL22956",
+    "total_occurrences": 23,
+    "unique_creators": 12,
+    "first_seen": "2023-11-15T20:29:46+00:00",
+    "last_seen": "2024-02-06T20:12:46+00:00",
+    "avg_days_between_occurrences": 3.77,
+    "avg_validation_turnaround_hours": 27.27
   },
   {
-    "vehicle_number": "FKN00GL18629",
-    "total_occurrences": 22,
-    "unique_creators": 7,
-    "first_seen": "2023-12-25T02:50:46+00:00",
-    "last_seen": "2024-04-08T02:58:46+00:00",
-    "avg_days_between_occurrences": 5.0,
-    "avg_validation_turnaround_hours": null
+    "vehicle_number": "FKN00GL21720",
+    "total_occurrences": 23,
+    "unique_creators": 12,
+    "first_seen": "2023-11-11T02:17:46+00:00",
+    "last_seen": "2024-04-04T04:11:46+00:00",
+    "avg_days_between_occurrences": 6.59,
+    "avg_validation_turnaround_hours": 133.68
   },
   {
     "vehicle_number": "FKN00GL16746",
@@ -378,51 +342,6 @@
     "avg_validation_turnaround_hours": 29.69
   },
   {
-    "vehicle_number": "FKN00GL4303",
-    "total_occurrences": 22,
-    "unique_creators": 11,
-    "first_seen": "2023-11-16T00:31:46+00:00",
-    "last_seen": "2024-04-05T20:51:46+00:00",
-    "avg_days_between_occurrences": 6.75,
-    "avg_validation_turnaround_hours": 112.43
-  },
-  {
-    "vehicle_number": "FKN00GL35922",
-    "total_occurrences": 22,
-    "unique_creators": 15,
-    "first_seen": "2023-11-17T01:21:46+00:00",
-    "last_seen": "2024-03-28T02:58:46+00:00",
-    "avg_days_between_occurrences": 6.29,
-    "avg_validation_turnaround_hours": 44.41
-  },
-  {
-    "vehicle_number": "FKN00GL5362",
-    "total_occurrences": 22,
-    "unique_creators": 7,
-    "first_seen": "2023-11-12T02:11:46+00:00",
-    "last_seen": "2024-03-29T05:18:46+00:00",
-    "avg_days_between_occurrences": 6.58,
-    "avg_validation_turnaround_hours": 46.45
-  },
-  {
-    "vehicle_number": "FKN00GL14399",
-    "total_occurrences": 22,
-    "unique_creators": 10,
-    "first_seen": "2024-01-05T22:43:46+00:00",
-    "last_seen": "2024-04-04T00:07:46+00:00",
-    "avg_days_between_occurrences": 4.24,
-    "avg_validation_turnaround_hours": 386.77
-  },
-  {
-    "vehicle_number": "FKN00GL7910",
-    "total_occurrences": 22,
-    "unique_creators": 14,
-    "first_seen": "2023-11-12T00:18:46+00:00",
-    "last_seen": "2024-03-11T22:29:46+00:00",
-    "avg_days_between_occurrences": 5.76,
-    "avg_validation_turnaround_hours": 174.51
-  },
-  {
     "vehicle_number": "FKN00GL12732",
     "total_occurrences": 22,
     "unique_creators": 15,
@@ -430,6 +349,15 @@
     "last_seen": "2024-02-18T05:18:46+00:00",
     "avg_days_between_occurrences": 4.67,
     "avg_validation_turnaround_hours": 53.01
+  },
+  {
+    "vehicle_number": "FKN00GL9334",
+    "total_occurrences": 22,
+    "unique_creators": 10,
+    "first_seen": "2023-11-21T00:24:46+00:00",
+    "last_seen": "2024-03-27T04:17:46+00:00",
+    "avg_days_between_occurrences": 6.06,
+    "avg_validation_turnaround_hours": 35.91
   },
   {
     "vehicle_number": "FKN00GL9526",
@@ -441,6 +369,24 @@
     "avg_validation_turnaround_hours": 46.31
   },
   {
+    "vehicle_number": "FKN00GL35922",
+    "total_occurrences": 22,
+    "unique_creators": 15,
+    "first_seen": "2023-11-17T01:21:46+00:00",
+    "last_seen": "2024-03-28T02:58:46+00:00",
+    "avg_days_between_occurrences": 6.29,
+    "avg_validation_turnaround_hours": 44.41
+  },
+  {
+    "vehicle_number": "FKN00GL2850",
+    "total_occurrences": 22,
+    "unique_creators": 13,
+    "first_seen": "2023-11-17T04:28:46+00:00",
+    "last_seen": "2024-03-28T21:36:46+00:00",
+    "avg_days_between_occurrences": 6.32,
+    "avg_validation_turnaround_hours": 247.46
+  },
+  {
     "vehicle_number": "FKN00GL104980",
     "total_occurrences": 22,
     "unique_creators": 11,
@@ -448,6 +394,24 @@
     "last_seen": "2024-01-09T03:54:46+00:00",
     "avg_days_between_occurrences": 2.66,
     "avg_validation_turnaround_hours": 28.48
+  },
+  {
+    "vehicle_number": "FKN00GL4303",
+    "total_occurrences": 22,
+    "unique_creators": 11,
+    "first_seen": "2023-11-16T00:31:46+00:00",
+    "last_seen": "2024-04-05T20:51:46+00:00",
+    "avg_days_between_occurrences": 6.75,
+    "avg_validation_turnaround_hours": 112.43
+  },
+  {
+    "vehicle_number": "FKN00GL14399",
+    "total_occurrences": 22,
+    "unique_creators": 10,
+    "first_seen": "2024-01-05T22:43:46+00:00",
+    "last_seen": "2024-04-04T00:07:46+00:00",
+    "avg_days_between_occurrences": 4.24,
+    "avg_validation_turnaround_hours": 386.77
   },
   {
     "vehicle_number": "FKN00GL6310",
@@ -459,49 +423,40 @@
     "avg_validation_turnaround_hours": 44.62
   },
   {
-    "vehicle_number": "FKN00GL11028",
-    "total_occurrences": 21,
-    "unique_creators": 3,
-    "first_seen": "2023-11-15T19:42:46+00:00",
-    "last_seen": "2024-02-21T19:57:46+00:00",
-    "avg_days_between_occurrences": 4.9,
-    "avg_validation_turnaround_hours": 57.18
-  },
-  {
-    "vehicle_number": "FKN00GL18528",
-    "total_occurrences": 21,
-    "unique_creators": 5,
-    "first_seen": "2024-02-10T06:02:46+00:00",
-    "last_seen": "2024-03-22T05:40:46+00:00",
-    "avg_days_between_occurrences": 2.05,
-    "avg_validation_turnaround_hours": 136.77
-  },
-  {
-    "vehicle_number": "FKN00GL17172",
-    "total_occurrences": 21,
-    "unique_creators": 3,
-    "first_seen": "2023-11-11T02:04:46+00:00",
-    "last_seen": "2024-03-10T02:56:46+00:00",
-    "avg_days_between_occurrences": 6.0,
-    "avg_validation_turnaround_hours": 45.18
-  },
-  {
-    "vehicle_number": "FKN00GL22063",
-    "total_occurrences": 21,
-    "unique_creators": 4,
-    "first_seen": "2024-02-06T06:44:46+00:00",
-    "last_seen": "2024-03-23T03:34:46+00:00",
-    "avg_days_between_occurrences": 2.29,
-    "avg_validation_turnaround_hours": 174.14
-  },
-  {
-    "vehicle_number": "FKN00GL8015",
-    "total_occurrences": 21,
-    "unique_creators": 6,
-    "first_seen": "2024-02-03T06:06:46+00:00",
-    "last_seen": "2024-03-30T06:18:46+00:00",
-    "avg_days_between_occurrences": 2.8,
+    "vehicle_number": "FKN00GL18629",
+    "total_occurrences": 22,
+    "unique_creators": 7,
+    "first_seen": "2023-12-25T02:50:46+00:00",
+    "last_seen": "2024-04-08T02:58:46+00:00",
+    "avg_days_between_occurrences": 5.0,
     "avg_validation_turnaround_hours": null
+  },
+  {
+    "vehicle_number": "FKN00GL6353",
+    "total_occurrences": 22,
+    "unique_creators": 11,
+    "first_seen": "2023-11-14T07:00:46+00:00",
+    "last_seen": "2024-04-06T05:03:46+00:00",
+    "avg_days_between_occurrences": 6.85,
+    "avg_validation_turnaround_hours": 37.17
+  },
+  {
+    "vehicle_number": "FKN00GL7910",
+    "total_occurrences": 22,
+    "unique_creators": 14,
+    "first_seen": "2023-11-12T00:18:46+00:00",
+    "last_seen": "2024-03-11T22:29:46+00:00",
+    "avg_days_between_occurrences": 5.76,
+    "avg_validation_turnaround_hours": 174.51
+  },
+  {
+    "vehicle_number": "FKN00GL5362",
+    "total_occurrences": 22,
+    "unique_creators": 7,
+    "first_seen": "2023-11-12T02:11:46+00:00",
+    "last_seen": "2024-03-29T05:18:46+00:00",
+    "avg_days_between_occurrences": 6.58,
+    "avg_validation_turnaround_hours": 46.45
   },
   {
     "vehicle_number": "FKN00GL22258",
@@ -513,6 +468,15 @@
     "avg_validation_turnaround_hours": 24.93
   },
   {
+    "vehicle_number": "FKN00GL8015",
+    "total_occurrences": 21,
+    "unique_creators": 6,
+    "first_seen": "2024-02-03T06:06:46+00:00",
+    "last_seen": "2024-03-30T06:18:46+00:00",
+    "avg_days_between_occurrences": 2.8,
+    "avg_validation_turnaround_hours": null
+  },
+  {
     "vehicle_number": "FKN00GL6006",
     "total_occurrences": 21,
     "unique_creators": 13,
@@ -522,31 +486,13 @@
     "avg_validation_turnaround_hours": 32.53
   },
   {
-    "vehicle_number": "FKN00GL3743",
+    "vehicle_number": "FKN00GL22063",
     "total_occurrences": 21,
-    "unique_creators": 14,
-    "first_seen": "2023-11-27T06:19:46+00:00",
-    "last_seen": "2024-03-31T05:07:46+00:00",
-    "avg_days_between_occurrences": 6.25,
-    "avg_validation_turnaround_hours": 114.65
-  },
-  {
-    "vehicle_number": "FKN00GL18794",
-    "total_occurrences": 21,
-    "unique_creators": 16,
-    "first_seen": "2023-11-12T22:47:46+00:00",
-    "last_seen": "2024-03-29T22:29:46+00:00",
-    "avg_days_between_occurrences": 6.9,
-    "avg_validation_turnaround_hours": 37.3
-  },
-  {
-    "vehicle_number": "FKN00GL23079",
-    "total_occurrences": 21,
-    "unique_creators": 1,
-    "first_seen": "2023-11-10T21:06:46+00:00",
-    "last_seen": "2024-04-03T21:32:46+00:00",
-    "avg_days_between_occurrences": 7.25,
-    "avg_validation_turnaround_hours": 242.45
+    "unique_creators": 4,
+    "first_seen": "2024-02-06T06:44:46+00:00",
+    "last_seen": "2024-03-23T03:34:46+00:00",
+    "avg_days_between_occurrences": 2.29,
+    "avg_validation_turnaround_hours": 174.14
   },
   {
     "vehicle_number": "FKN00GL6334",
@@ -567,13 +513,13 @@
     "avg_validation_turnaround_hours": 337.77
   },
   {
-    "vehicle_number": "FKN00GL0907",
+    "vehicle_number": "FKN00GL11475",
     "total_occurrences": 21,
-    "unique_creators": 10,
-    "first_seen": "2024-01-01T21:35:46+00:00",
-    "last_seen": "2024-03-15T22:03:46+00:00",
-    "avg_days_between_occurrences": 3.7,
-    "avg_validation_turnaround_hours": 243.37
+    "unique_creators": 11,
+    "first_seen": "2023-11-10T21:39:46+00:00",
+    "last_seen": "2024-04-06T19:50:46+00:00",
+    "avg_days_between_occurrences": 7.4,
+    "avg_validation_turnaround_hours": 238.66
   },
   {
     "vehicle_number": "FKN00GL8043",
@@ -585,6 +531,42 @@
     "avg_validation_turnaround_hours": 60.51
   },
   {
+    "vehicle_number": "FKN00GL11028",
+    "total_occurrences": 21,
+    "unique_creators": 3,
+    "first_seen": "2023-11-15T19:42:46+00:00",
+    "last_seen": "2024-02-21T19:57:46+00:00",
+    "avg_days_between_occurrences": 4.9,
+    "avg_validation_turnaround_hours": 57.18
+  },
+  {
+    "vehicle_number": "FKN00GL23079",
+    "total_occurrences": 21,
+    "unique_creators": 1,
+    "first_seen": "2023-11-10T21:06:46+00:00",
+    "last_seen": "2024-04-03T21:32:46+00:00",
+    "avg_days_between_occurrences": 7.25,
+    "avg_validation_turnaround_hours": 242.45
+  },
+  {
+    "vehicle_number": "FKN00GL3743",
+    "total_occurrences": 21,
+    "unique_creators": 14,
+    "first_seen": "2023-11-27T06:19:46+00:00",
+    "last_seen": "2024-03-31T05:07:46+00:00",
+    "avg_days_between_occurrences": 6.25,
+    "avg_validation_turnaround_hours": 114.65
+  },
+  {
+    "vehicle_number": "FKN00GL18528",
+    "total_occurrences": 21,
+    "unique_creators": 5,
+    "first_seen": "2024-02-10T06:02:46+00:00",
+    "last_seen": "2024-03-22T05:40:46+00:00",
+    "avg_days_between_occurrences": 2.05,
+    "avg_validation_turnaround_hours": 136.77
+  },
+  {
     "vehicle_number": "FKN00GL3531",
     "total_occurrences": 21,
     "unique_creators": 12,
@@ -594,58 +576,31 @@
     "avg_validation_turnaround_hours": 130.93
   },
   {
-    "vehicle_number": "FKN00GL11475",
+    "vehicle_number": "FKN00GL17172",
     "total_occurrences": 21,
-    "unique_creators": 11,
-    "first_seen": "2023-11-10T21:39:46+00:00",
-    "last_seen": "2024-04-06T19:50:46+00:00",
-    "avg_days_between_occurrences": 7.4,
-    "avg_validation_turnaround_hours": 238.66
+    "unique_creators": 3,
+    "first_seen": "2023-11-11T02:04:46+00:00",
+    "last_seen": "2024-03-10T02:56:46+00:00",
+    "avg_days_between_occurrences": 6.0,
+    "avg_validation_turnaround_hours": 45.18
   },
   {
-    "vehicle_number": "FKN00GL19006",
-    "total_occurrences": 20,
-    "unique_creators": 14,
-    "first_seen": "2023-11-22T00:39:46+00:00",
-    "last_seen": "2024-03-12T22:55:46+00:00",
-    "avg_days_between_occurrences": 5.89,
-    "avg_validation_turnaround_hours": 71.7
+    "vehicle_number": "FKN00GL0907",
+    "total_occurrences": 21,
+    "unique_creators": 10,
+    "first_seen": "2024-01-01T21:35:46+00:00",
+    "last_seen": "2024-03-15T22:03:46+00:00",
+    "avg_days_between_occurrences": 3.7,
+    "avg_validation_turnaround_hours": 243.37
   },
   {
-    "vehicle_number": "FKN00GL7612",
-    "total_occurrences": 20,
-    "unique_creators": 1,
-    "first_seen": "2023-12-27T05:55:46+00:00",
-    "last_seen": "2024-04-07T20:51:46+00:00",
-    "avg_days_between_occurrences": 5.4,
-    "avg_validation_turnaround_hours": 634.14
-  },
-  {
-    "vehicle_number": "FKN00GL18074",
-    "total_occurrences": 20,
-    "unique_creators": 7,
-    "first_seen": "2024-01-02T23:20:46+00:00",
-    "last_seen": "2024-03-29T06:55:46+00:00",
-    "avg_days_between_occurrences": 4.54,
-    "avg_validation_turnaround_hours": 48.43
-  },
-  {
-    "vehicle_number": "FKN00GL22537",
-    "total_occurrences": 20,
-    "unique_creators": 12,
-    "first_seen": "2023-12-07T03:44:46+00:00",
-    "last_seen": "2024-04-07T05:03:46+00:00",
-    "avg_days_between_occurrences": 6.42,
-    "avg_validation_turnaround_hours": 32.71
-  },
-  {
-    "vehicle_number": "FKN00GL24467",
-    "total_occurrences": 20,
-    "unique_creators": 5,
-    "first_seen": "2024-01-09T06:31:46+00:00",
-    "last_seen": "2024-03-31T06:39:46+00:00",
-    "avg_days_between_occurrences": 4.32,
-    "avg_validation_turnaround_hours": 110.82
+    "vehicle_number": "FKN00GL18794",
+    "total_occurrences": 21,
+    "unique_creators": 16,
+    "first_seen": "2023-11-12T22:47:46+00:00",
+    "last_seen": "2024-03-29T22:29:46+00:00",
+    "avg_days_between_occurrences": 6.9,
+    "avg_validation_turnaround_hours": 37.3
   },
   {
     "vehicle_number": "FKN00GL3688",
@@ -657,103 +612,22 @@
     "avg_validation_turnaround_hours": 129.69
   },
   {
-    "vehicle_number": "FKN00GL6860",
-    "total_occurrences": 20,
-    "unique_creators": 10,
-    "first_seen": "2023-11-15T22:34:46+00:00",
-    "last_seen": "2024-04-06T19:53:46+00:00",
-    "avg_days_between_occurrences": 7.52,
-    "avg_validation_turnaround_hours": 75.94
-  },
-  {
-    "vehicle_number": "FKN00GL3018",
-    "total_occurrences": 20,
-    "unique_creators": 14,
-    "first_seen": "2023-11-17T04:07:46+00:00",
-    "last_seen": "2024-02-02T01:33:46+00:00",
-    "avg_days_between_occurrences": 4.05,
-    "avg_validation_turnaround_hours": 37.51
-  },
-  {
-    "vehicle_number": "FKN00GL1048",
-    "total_occurrences": 20,
-    "unique_creators": 16,
-    "first_seen": "2023-11-30T21:54:46+00:00",
-    "last_seen": "2024-04-02T01:37:46+00:00",
-    "avg_days_between_occurrences": 6.48,
-    "avg_validation_turnaround_hours": 100.69
-  },
-  {
-    "vehicle_number": "FKN00GL18309",
+    "vehicle_number": "FKN00GL22537",
     "total_occurrences": 20,
     "unique_creators": 12,
-    "first_seen": "2023-11-24T04:47:46+00:00",
-    "last_seen": "2024-04-02T00:51:46+00:00",
-    "avg_days_between_occurrences": 6.83,
-    "avg_validation_turnaround_hours": 35.27
+    "first_seen": "2023-12-07T03:44:46+00:00",
+    "last_seen": "2024-04-07T05:03:46+00:00",
+    "avg_days_between_occurrences": 6.42,
+    "avg_validation_turnaround_hours": 32.71
   },
   {
-    "vehicle_number": "FKN00GL1199",
-    "total_occurrences": 20,
-    "unique_creators": 9,
-    "first_seen": "2023-11-14T07:03:46+00:00",
-    "last_seen": "2024-04-03T00:23:46+00:00",
-    "avg_days_between_occurrences": 7.41,
-    "avg_validation_turnaround_hours": 107.85
-  },
-  {
-    "vehicle_number": "FKN00GL6946",
-    "total_occurrences": 20,
-    "unique_creators": 15,
-    "first_seen": "2023-11-14T00:57:46+00:00",
-    "last_seen": "2024-02-06T21:38:46+00:00",
-    "avg_days_between_occurrences": 4.47,
-    "avg_validation_turnaround_hours": 53.64
-  },
-  {
-    "vehicle_number": "FKN00GL0734",
-    "total_occurrences": 20,
-    "unique_creators": 10,
-    "first_seen": "2023-11-16T01:02:46+00:00",
-    "last_seen": "2024-01-06T00:34:46+00:00",
-    "avg_days_between_occurrences": 2.68,
-    "avg_validation_turnaround_hours": 30.02
-  },
-  {
-    "vehicle_number": "FKN00GL7586",
+    "vehicle_number": "FKN00GL18074",
     "total_occurrences": 20,
     "unique_creators": 7,
-    "first_seen": "2024-01-07T04:28:46+00:00",
-    "last_seen": "2024-04-04T04:26:46+00:00",
-    "avg_days_between_occurrences": 4.63,
-    "avg_validation_turnaround_hours": 156.51
-  },
-  {
-    "vehicle_number": "FKN00GL10449",
-    "total_occurrences": 20,
-    "unique_creators": 11,
-    "first_seen": "2023-11-28T19:42:46+00:00",
-    "last_seen": "2024-03-11T19:42:46+00:00",
-    "avg_days_between_occurrences": 5.47,
-    "avg_validation_turnaround_hours": 110.4
-  },
-  {
-    "vehicle_number": "FKN00GL7998",
-    "total_occurrences": 20,
-    "unique_creators": 15,
-    "first_seen": "2023-11-13T20:49:46+00:00",
-    "last_seen": "2024-03-20T23:40:46+00:00",
-    "avg_days_between_occurrences": 6.74,
-    "avg_validation_turnaround_hours": 99.07
-  },
-  {
-    "vehicle_number": "FKN00GL7760",
-    "total_occurrences": 20,
-    "unique_creators": 11,
-    "first_seen": "2023-11-11T08:54:46+00:00",
-    "last_seen": "2024-04-01T07:24:46+00:00",
-    "avg_days_between_occurrences": 7.47,
-    "avg_validation_turnaround_hours": 55.2
+    "first_seen": "2024-01-02T23:20:46+00:00",
+    "last_seen": "2024-03-29T06:55:46+00:00",
+    "avg_days_between_occurrences": 4.54,
+    "avg_validation_turnaround_hours": 48.43
   },
   {
     "vehicle_number": "FKN00GL24261",
@@ -765,13 +639,22 @@
     "avg_validation_turnaround_hours": 38.92
   },
   {
-    "vehicle_number": "FKN00GL1243",
+    "vehicle_number": "FKN00GL3018",
     "total_occurrences": 20,
-    "unique_creators": 1,
-    "first_seen": "2023-12-06T21:54:46+00:00",
-    "last_seen": "2024-04-07T22:08:46+00:00",
-    "avg_days_between_occurrences": 6.47,
-    "avg_validation_turnaround_hours": 387.54
+    "unique_creators": 14,
+    "first_seen": "2023-11-17T04:07:46+00:00",
+    "last_seen": "2024-02-02T01:33:46+00:00",
+    "avg_days_between_occurrences": 4.05,
+    "avg_validation_turnaround_hours": 37.51
+  },
+  {
+    "vehicle_number": "FKN00GL19006",
+    "total_occurrences": 20,
+    "unique_creators": 14,
+    "first_seen": "2023-11-22T00:39:46+00:00",
+    "last_seen": "2024-03-12T22:55:46+00:00",
+    "avg_days_between_occurrences": 5.89,
+    "avg_validation_turnaround_hours": 71.7
   },
   {
     "vehicle_number": "FKN00GL25402",
@@ -783,166 +666,121 @@
     "avg_validation_turnaround_hours": 40.69
   },
   {
-    "vehicle_number": "FKN00GL2735",
-    "total_occurrences": 19,
-    "unique_creators": 14,
-    "first_seen": "2023-11-21T03:23:46+00:00",
-    "last_seen": "2024-03-28T03:40:46+00:00",
-    "avg_days_between_occurrences": 7.11,
-    "avg_validation_turnaround_hours": 203.85
-  },
-  {
-    "vehicle_number": "FKN00GL32651",
-    "total_occurrences": 19,
-    "unique_creators": 7,
-    "first_seen": "2023-11-12T02:58:46+00:00",
-    "last_seen": "2024-03-17T03:11:46+00:00",
-    "avg_days_between_occurrences": 7.0,
-    "avg_validation_turnaround_hours": 153.71
-  },
-  {
-    "vehicle_number": "FKN00GL7916",
-    "total_occurrences": 19,
-    "unique_creators": 11,
-    "first_seen": "2023-11-11T04:29:46+00:00",
-    "last_seen": "2024-04-07T03:39:46+00:00",
-    "avg_days_between_occurrences": 8.22,
-    "avg_validation_turnaround_hours": 49.86
-  },
-  {
-    "vehicle_number": "FKN00GL21004",
-    "total_occurrences": 19,
-    "unique_creators": 1,
-    "first_seen": "2023-11-11T04:31:46+00:00",
-    "last_seen": "2024-03-23T05:24:46+00:00",
-    "avg_days_between_occurrences": 7.39,
-    "avg_validation_turnaround_hours": 191.05
-  },
-  {
-    "vehicle_number": "FKN00GL2993",
-    "total_occurrences": 19,
-    "unique_creators": 13,
-    "first_seen": "2023-11-15T20:31:46+00:00",
-    "last_seen": "2024-02-02T20:54:46+00:00",
-    "avg_days_between_occurrences": 4.39,
-    "avg_validation_turnaround_hours": 37.55
-  },
-  {
-    "vehicle_number": "FKN00GL20170",
-    "total_occurrences": 19,
-    "unique_creators": 2,
-    "first_seen": "2023-11-10T21:20:46+00:00",
-    "last_seen": "2024-04-08T06:20:46+00:00",
-    "avg_days_between_occurrences": 8.3,
-    "avg_validation_turnaround_hours": 57.16
-  },
-  {
-    "vehicle_number": "FKN00GL9990",
-    "total_occurrences": 19,
-    "unique_creators": 9,
-    "first_seen": "2023-11-14T00:56:46+00:00",
-    "last_seen": "2024-02-08T21:12:46+00:00",
-    "avg_days_between_occurrences": 4.82,
-    "avg_validation_turnaround_hours": 35.91
-  },
-  {
-    "vehicle_number": "FKN00GL19014",
-    "total_occurrences": 19,
-    "unique_creators": 13,
-    "first_seen": "2023-11-10T21:36:46+00:00",
-    "last_seen": "2024-04-06T19:44:46+00:00",
-    "avg_days_between_occurrences": 8.22,
-    "avg_validation_turnaround_hours": 28.76
-  },
-  {
-    "vehicle_number": "FKN00GL11463",
-    "total_occurrences": 19,
-    "unique_creators": 14,
-    "first_seen": "2023-12-05T03:27:46+00:00",
-    "last_seen": "2024-02-23T02:42:46+00:00",
-    "avg_days_between_occurrences": 4.44,
-    "avg_validation_turnaround_hours": 43.14
-  },
-  {
-    "vehicle_number": "FKN00GL33465",
-    "total_occurrences": 19,
-    "unique_creators": 14,
-    "first_seen": "2023-11-10T21:36:46+00:00",
-    "last_seen": "2024-03-11T04:07:46+00:00",
+    "vehicle_number": "FKN00GL7998",
+    "total_occurrences": 20,
+    "unique_creators": 15,
+    "first_seen": "2023-11-13T20:49:46+00:00",
+    "last_seen": "2024-03-20T23:40:46+00:00",
     "avg_days_between_occurrences": 6.74,
-    "avg_validation_turnaround_hours": 86.3
+    "avg_validation_turnaround_hours": 99.07
   },
   {
-    "vehicle_number": "FKN00GL6219",
-    "total_occurrences": 19,
-    "unique_creators": 5,
-    "first_seen": "2023-11-24T02:58:46+00:00",
-    "last_seen": "2024-03-31T00:35:46+00:00",
-    "avg_days_between_occurrences": 7.11,
-    "avg_validation_turnaround_hours": 44.48
-  },
-  {
-    "vehicle_number": "FKN00GL0954",
-    "total_occurrences": 19,
-    "unique_creators": 11,
-    "first_seen": "2023-12-16T04:22:46+00:00",
-    "last_seen": "2024-04-06T05:06:46+00:00",
-    "avg_days_between_occurrences": 6.22,
-    "avg_validation_turnaround_hours": 126.3
-  },
-  {
-    "vehicle_number": "FKN00GL20898",
-    "total_occurrences": 19,
-    "unique_creators": 9,
-    "first_seen": "2023-11-16T19:55:46+00:00",
-    "last_seen": "2024-03-23T05:34:46+00:00",
-    "avg_days_between_occurrences": 7.08,
-    "avg_validation_turnaround_hours": 81.69
-  },
-  {
-    "vehicle_number": "FKN00GL10831",
-    "total_occurrences": 19,
-    "unique_creators": 9,
-    "first_seen": "2023-11-12T02:20:46+00:00",
-    "last_seen": "2024-01-27T04:52:46+00:00",
-    "avg_days_between_occurrences": 4.23,
-    "avg_validation_turnaround_hours": 36.84
-  },
-  {
-    "vehicle_number": "FKN00GL9606",
-    "total_occurrences": 19,
+    "vehicle_number": "FKN00GL1243",
+    "total_occurrences": 20,
     "unique_creators": 1,
-    "first_seen": "2023-11-10T21:04:46+00:00",
-    "last_seen": "2024-04-07T21:48:46+00:00",
-    "avg_days_between_occurrences": 8.28,
-    "avg_validation_turnaround_hours": 47.02
+    "first_seen": "2023-12-06T21:54:46+00:00",
+    "last_seen": "2024-04-07T22:08:46+00:00",
+    "avg_days_between_occurrences": 6.47,
+    "avg_validation_turnaround_hours": 387.54
   },
   {
-    "vehicle_number": "FKN00GL4020",
-    "total_occurrences": 19,
-    "unique_creators": 1,
-    "first_seen": "2024-01-23T04:56:46+00:00",
-    "last_seen": "2024-04-06T04:51:46+00:00",
-    "avg_days_between_occurrences": 4.11,
-    "avg_validation_turnaround_hours": 85.35
+    "vehicle_number": "FKN00GL6860",
+    "total_occurrences": 20,
+    "unique_creators": 10,
+    "first_seen": "2023-11-15T22:34:46+00:00",
+    "last_seen": "2024-04-06T19:53:46+00:00",
+    "avg_days_between_occurrences": 7.52,
+    "avg_validation_turnaround_hours": 75.94
   },
   {
-    "vehicle_number": "FKN00GL56080",
-    "total_occurrences": 19,
-    "unique_creators": 11,
-    "first_seen": "2023-11-23T01:34:46+00:00",
-    "last_seen": "2024-03-08T03:58:46+00:00",
-    "avg_days_between_occurrences": 5.89,
-    "avg_validation_turnaround_hours": 34.01
-  },
-  {
-    "vehicle_number": "FKN00GL12905",
-    "total_occurrences": 19,
+    "vehicle_number": "FKN00GL24467",
+    "total_occurrences": 20,
     "unique_creators": 5,
-    "first_seen": "2023-12-02T01:46:46+00:00",
-    "last_seen": "2024-02-20T23:22:46+00:00",
-    "avg_days_between_occurrences": 4.49,
-    "avg_validation_turnaround_hours": 41.22
+    "first_seen": "2024-01-09T06:31:46+00:00",
+    "last_seen": "2024-03-31T06:39:46+00:00",
+    "avg_days_between_occurrences": 4.32,
+    "avg_validation_turnaround_hours": 110.82
+  },
+  {
+    "vehicle_number": "FKN00GL1199",
+    "total_occurrences": 20,
+    "unique_creators": 9,
+    "first_seen": "2023-11-14T07:03:46+00:00",
+    "last_seen": "2024-04-03T00:23:46+00:00",
+    "avg_days_between_occurrences": 7.41,
+    "avg_validation_turnaround_hours": 107.85
+  },
+  {
+    "vehicle_number": "FKN00GL7760",
+    "total_occurrences": 20,
+    "unique_creators": 11,
+    "first_seen": "2023-11-11T08:54:46+00:00",
+    "last_seen": "2024-04-01T07:24:46+00:00",
+    "avg_days_between_occurrences": 7.47,
+    "avg_validation_turnaround_hours": 55.2
+  },
+  {
+    "vehicle_number": "FKN00GL18309",
+    "total_occurrences": 20,
+    "unique_creators": 12,
+    "first_seen": "2023-11-24T04:47:46+00:00",
+    "last_seen": "2024-04-02T00:51:46+00:00",
+    "avg_days_between_occurrences": 6.83,
+    "avg_validation_turnaround_hours": 35.27
+  },
+  {
+    "vehicle_number": "FKN00GL10449",
+    "total_occurrences": 20,
+    "unique_creators": 11,
+    "first_seen": "2023-11-28T19:42:46+00:00",
+    "last_seen": "2024-03-11T19:42:46+00:00",
+    "avg_days_between_occurrences": 5.47,
+    "avg_validation_turnaround_hours": 110.4
+  },
+  {
+    "vehicle_number": "FKN00GL1048",
+    "total_occurrences": 20,
+    "unique_creators": 16,
+    "first_seen": "2023-11-30T21:54:46+00:00",
+    "last_seen": "2024-04-02T01:37:46+00:00",
+    "avg_days_between_occurrences": 6.48,
+    "avg_validation_turnaround_hours": 100.69
+  },
+  {
+    "vehicle_number": "FKN00GL6946",
+    "total_occurrences": 20,
+    "unique_creators": 15,
+    "first_seen": "2023-11-14T00:57:46+00:00",
+    "last_seen": "2024-02-06T21:38:46+00:00",
+    "avg_days_between_occurrences": 4.47,
+    "avg_validation_turnaround_hours": 53.64
+  },
+  {
+    "vehicle_number": "FKN00GL7586",
+    "total_occurrences": 20,
+    "unique_creators": 7,
+    "first_seen": "2024-01-07T04:28:46+00:00",
+    "last_seen": "2024-04-04T04:26:46+00:00",
+    "avg_days_between_occurrences": 4.63,
+    "avg_validation_turnaround_hours": 156.51
+  },
+  {
+    "vehicle_number": "FKN00GL0734",
+    "total_occurrences": 20,
+    "unique_creators": 10,
+    "first_seen": "2023-11-16T01:02:46+00:00",
+    "last_seen": "2024-01-06T00:34:46+00:00",
+    "avg_days_between_occurrences": 2.68,
+    "avg_validation_turnaround_hours": 30.02
+  },
+  {
+    "vehicle_number": "FKN00GL7612",
+    "total_occurrences": 20,
+    "unique_creators": 1,
+    "first_seen": "2023-12-27T05:55:46+00:00",
+    "last_seen": "2024-04-07T20:51:46+00:00",
+    "avg_days_between_occurrences": 5.4,
+    "avg_validation_turnaround_hours": 634.14
   },
   {
     "vehicle_number": "FKN00GL3832",
@@ -954,15 +792,6 @@
     "avg_validation_turnaround_hours": 47.92
   },
   {
-    "vehicle_number": "FKN00GL4480",
-    "total_occurrences": 19,
-    "unique_creators": 8,
-    "first_seen": "2024-01-09T06:31:46+00:00",
-    "last_seen": "2024-03-28T02:56:46+00:00",
-    "avg_days_between_occurrences": 4.38,
-    "avg_validation_turnaround_hours": 36.43
-  },
-  {
     "vehicle_number": "FKN00GL6423",
     "total_occurrences": 19,
     "unique_creators": 8,
@@ -972,85 +801,175 @@
     "avg_validation_turnaround_hours": 41.09
   },
   {
-    "vehicle_number": "FKN00GL4341",
-    "total_occurrences": 18,
-    "unique_creators": 13,
-    "first_seen": "2023-12-06T02:30:46+00:00",
-    "last_seen": "2024-03-28T22:12:46+00:00",
-    "avg_days_between_occurrences": 6.7,
-    "avg_validation_turnaround_hours": 137.65
+    "vehicle_number": "FKN00GL33465",
+    "total_occurrences": 19,
+    "unique_creators": 14,
+    "first_seen": "2023-11-10T21:36:46+00:00",
+    "last_seen": "2024-03-11T04:07:46+00:00",
+    "avg_days_between_occurrences": 6.74,
+    "avg_validation_turnaround_hours": 86.3
   },
   {
-    "vehicle_number": "FKN00GL2715",
-    "total_occurrences": 18,
-    "unique_creators": 13,
-    "first_seen": "2023-11-15T23:49:46+00:00",
-    "last_seen": "2024-03-28T03:14:46+00:00",
-    "avg_days_between_occurrences": 7.83,
-    "avg_validation_turnaround_hours": 45.58
-  },
-  {
-    "vehicle_number": "FKN00GL1032",
-    "total_occurrences": 18,
-    "unique_creators": 13,
-    "first_seen": "2023-12-13T02:23:46+00:00",
-    "last_seen": "2024-03-15T22:03:46+00:00",
-    "avg_days_between_occurrences": 5.52,
-    "avg_validation_turnaround_hours": 183.68
-  },
-  {
-    "vehicle_number": "FKN00GL24491",
-    "total_occurrences": 18,
-    "unique_creators": 9,
-    "first_seen": "2023-12-01T01:47:46+00:00",
-    "last_seen": "2024-03-24T00:31:46+00:00",
-    "avg_days_between_occurrences": 6.7,
-    "avg_validation_turnaround_hours": 70.93
-  },
-  {
-    "vehicle_number": "FKN00GL1049",
-    "total_occurrences": 18,
+    "vehicle_number": "FKN00GL7916",
+    "total_occurrences": 19,
     "unique_creators": 11,
-    "first_seen": "2024-02-20T03:54:46+00:00",
-    "last_seen": "2024-03-28T02:37:46+00:00",
-    "avg_days_between_occurrences": 2.17,
-    "avg_validation_turnaround_hours": 635.45
+    "first_seen": "2023-11-11T04:29:46+00:00",
+    "last_seen": "2024-04-07T03:39:46+00:00",
+    "avg_days_between_occurrences": 8.22,
+    "avg_validation_turnaround_hours": 49.86
   },
   {
-    "vehicle_number": "FKN00GL4107",
-    "total_occurrences": 18,
-    "unique_creators": 15,
-    "first_seen": "2023-11-28T04:43:46+00:00",
-    "last_seen": "2024-02-27T06:39:46+00:00",
-    "avg_days_between_occurrences": 5.36,
-    "avg_validation_turnaround_hours": 23.1
+    "vehicle_number": "FKN00GL4020",
+    "total_occurrences": 19,
+    "unique_creators": 1,
+    "first_seen": "2024-01-23T04:56:46+00:00",
+    "last_seen": "2024-04-06T04:51:46+00:00",
+    "avg_days_between_occurrences": 4.11,
+    "avg_validation_turnaround_hours": 85.35
   },
   {
-    "vehicle_number": "FKN00GL0930",
-    "total_occurrences": 18,
-    "unique_creators": 10,
-    "first_seen": "2023-11-10T23:13:46+00:00",
-    "last_seen": "2024-03-09T00:58:46+00:00",
+    "vehicle_number": "FKN00GL32651",
+    "total_occurrences": 19,
+    "unique_creators": 7,
+    "first_seen": "2023-11-12T02:58:46+00:00",
+    "last_seen": "2024-03-17T03:11:46+00:00",
     "avg_days_between_occurrences": 7.0,
-    "avg_validation_turnaround_hours": 32.7
+    "avg_validation_turnaround_hours": 153.71
   },
   {
-    "vehicle_number": "FKN00GL1641",
-    "total_occurrences": 18,
+    "vehicle_number": "FKN00GL6219",
+    "total_occurrences": 19,
     "unique_creators": 5,
-    "first_seen": "2023-11-11T03:25:46+00:00",
-    "last_seen": "2024-02-23T08:22:46+00:00",
-    "avg_days_between_occurrences": 6.13,
-    "avg_validation_turnaround_hours": 49.42
+    "first_seen": "2023-11-24T02:58:46+00:00",
+    "last_seen": "2024-03-31T00:35:46+00:00",
+    "avg_days_between_occurrences": 7.11,
+    "avg_validation_turnaround_hours": 44.48
   },
   {
-    "vehicle_number": "FKN00GL44151",
-    "total_occurrences": 18,
-    "unique_creators": 11,
-    "first_seen": "2023-11-11T03:56:46+00:00",
-    "last_seen": "2024-03-10T23:44:46+00:00",
+    "vehicle_number": "FKN00GL2735",
+    "total_occurrences": 19,
+    "unique_creators": 14,
+    "first_seen": "2023-11-21T03:23:46+00:00",
+    "last_seen": "2024-03-28T03:40:46+00:00",
     "avg_days_between_occurrences": 7.11,
-    "avg_validation_turnaround_hours": 107.33
+    "avg_validation_turnaround_hours": 203.85
+  },
+  {
+    "vehicle_number": "FKN00GL12905",
+    "total_occurrences": 19,
+    "unique_creators": 5,
+    "first_seen": "2023-12-02T01:46:46+00:00",
+    "last_seen": "2024-02-20T23:22:46+00:00",
+    "avg_days_between_occurrences": 4.49,
+    "avg_validation_turnaround_hours": 41.22
+  },
+  {
+    "vehicle_number": "FKN00GL56080",
+    "total_occurrences": 19,
+    "unique_creators": 11,
+    "first_seen": "2023-11-23T01:34:46+00:00",
+    "last_seen": "2024-03-08T03:58:46+00:00",
+    "avg_days_between_occurrences": 5.89,
+    "avg_validation_turnaround_hours": 34.01
+  },
+  {
+    "vehicle_number": "FKN00GL9606",
+    "total_occurrences": 19,
+    "unique_creators": 1,
+    "first_seen": "2023-11-10T21:04:46+00:00",
+    "last_seen": "2024-04-07T21:48:46+00:00",
+    "avg_days_between_occurrences": 8.28,
+    "avg_validation_turnaround_hours": 47.02
+  },
+  {
+    "vehicle_number": "FKN00GL11463",
+    "total_occurrences": 19,
+    "unique_creators": 14,
+    "first_seen": "2023-12-05T03:27:46+00:00",
+    "last_seen": "2024-02-23T02:42:46+00:00",
+    "avg_days_between_occurrences": 4.44,
+    "avg_validation_turnaround_hours": 43.14
+  },
+  {
+    "vehicle_number": "FKN00GL20170",
+    "total_occurrences": 19,
+    "unique_creators": 2,
+    "first_seen": "2023-11-10T21:20:46+00:00",
+    "last_seen": "2024-04-08T06:20:46+00:00",
+    "avg_days_between_occurrences": 8.3,
+    "avg_validation_turnaround_hours": 57.16
+  },
+  {
+    "vehicle_number": "FKN00GL0954",
+    "total_occurrences": 19,
+    "unique_creators": 11,
+    "first_seen": "2023-12-16T04:22:46+00:00",
+    "last_seen": "2024-04-06T05:06:46+00:00",
+    "avg_days_between_occurrences": 6.22,
+    "avg_validation_turnaround_hours": 126.3
+  },
+  {
+    "vehicle_number": "FKN00GL19014",
+    "total_occurrences": 19,
+    "unique_creators": 13,
+    "first_seen": "2023-11-10T21:36:46+00:00",
+    "last_seen": "2024-04-06T19:44:46+00:00",
+    "avg_days_between_occurrences": 8.22,
+    "avg_validation_turnaround_hours": 28.76
+  },
+  {
+    "vehicle_number": "FKN00GL4480",
+    "total_occurrences": 19,
+    "unique_creators": 8,
+    "first_seen": "2024-01-09T06:31:46+00:00",
+    "last_seen": "2024-03-28T02:56:46+00:00",
+    "avg_days_between_occurrences": 4.38,
+    "avg_validation_turnaround_hours": 36.43
+  },
+  {
+    "vehicle_number": "FKN00GL21004",
+    "total_occurrences": 19,
+    "unique_creators": 1,
+    "first_seen": "2023-11-11T04:31:46+00:00",
+    "last_seen": "2024-03-23T05:24:46+00:00",
+    "avg_days_between_occurrences": 7.39,
+    "avg_validation_turnaround_hours": 191.05
+  },
+  {
+    "vehicle_number": "FKN00GL10831",
+    "total_occurrences": 19,
+    "unique_creators": 9,
+    "first_seen": "2023-11-12T02:20:46+00:00",
+    "last_seen": "2024-01-27T04:52:46+00:00",
+    "avg_days_between_occurrences": 4.23,
+    "avg_validation_turnaround_hours": 36.84
+  },
+  {
+    "vehicle_number": "FKN00GL2993",
+    "total_occurrences": 19,
+    "unique_creators": 13,
+    "first_seen": "2023-11-15T20:31:46+00:00",
+    "last_seen": "2024-02-02T20:54:46+00:00",
+    "avg_days_between_occurrences": 4.39,
+    "avg_validation_turnaround_hours": 37.55
+  },
+  {
+    "vehicle_number": "FKN00GL20898",
+    "total_occurrences": 19,
+    "unique_creators": 9,
+    "first_seen": "2023-11-16T19:55:46+00:00",
+    "last_seen": "2024-03-23T05:34:46+00:00",
+    "avg_days_between_occurrences": 7.08,
+    "avg_validation_turnaround_hours": 81.69
+  },
+  {
+    "vehicle_number": "FKN00GL9990",
+    "total_occurrences": 19,
+    "unique_creators": 9,
+    "first_seen": "2023-11-14T00:56:46+00:00",
+    "last_seen": "2024-02-08T21:12:46+00:00",
+    "avg_days_between_occurrences": 4.82,
+    "avg_validation_turnaround_hours": 35.91
   },
   {
     "vehicle_number": "FKN00GL6652",
@@ -1062,15 +981,6 @@
     "avg_validation_turnaround_hours": 433.99
   },
   {
-    "vehicle_number": "FKN00GL6629",
-    "total_occurrences": 18,
-    "unique_creators": 3,
-    "first_seen": "2024-01-01T05:16:46+00:00",
-    "last_seen": "2024-02-06T05:09:46+00:00",
-    "avg_days_between_occurrences": 2.12,
-    "avg_validation_turnaround_hours": 72.35
-  },
-  {
     "vehicle_number": "FKN00GL19786",
     "total_occurrences": 18,
     "unique_creators": 8,
@@ -1078,15 +988,6 @@
     "last_seen": "2024-04-05T19:53:46+00:00",
     "avg_days_between_occurrences": 7.53,
     "avg_validation_turnaround_hours": 20.62
-  },
-  {
-    "vehicle_number": "FKN00GL11705",
-    "total_occurrences": 18,
-    "unique_creators": 10,
-    "first_seen": "2023-11-14T01:00:46+00:00",
-    "last_seen": "2024-01-24T22:04:46+00:00",
-    "avg_days_between_occurrences": 4.23,
-    "avg_validation_turnaround_hours": 57.74
   },
   {
     "vehicle_number": "FKN00GL60534",
@@ -1098,6 +999,15 @@
     "avg_validation_turnaround_hours": 47.88
   },
   {
+    "vehicle_number": "FKN00GL1049",
+    "total_occurrences": 18,
+    "unique_creators": 11,
+    "first_seen": "2024-02-20T03:54:46+00:00",
+    "last_seen": "2024-03-28T02:37:46+00:00",
+    "avg_days_between_occurrences": 2.17,
+    "avg_validation_turnaround_hours": 635.45
+  },
+  {
     "vehicle_number": "FKN00GL7354",
     "total_occurrences": 18,
     "unique_creators": 8,
@@ -1105,6 +1015,69 @@
     "last_seen": "2024-03-18T22:32:46+00:00",
     "avg_days_between_occurrences": 4.53,
     "avg_validation_turnaround_hours": 227.02
+  },
+  {
+    "vehicle_number": "FKN00GL4341",
+    "total_occurrences": 18,
+    "unique_creators": 13,
+    "first_seen": "2023-12-06T02:30:46+00:00",
+    "last_seen": "2024-03-28T22:12:46+00:00",
+    "avg_days_between_occurrences": 6.7,
+    "avg_validation_turnaround_hours": 137.65
+  },
+  {
+    "vehicle_number": "FKN00GL6629",
+    "total_occurrences": 18,
+    "unique_creators": 3,
+    "first_seen": "2024-01-01T05:16:46+00:00",
+    "last_seen": "2024-02-06T05:09:46+00:00",
+    "avg_days_between_occurrences": 2.12,
+    "avg_validation_turnaround_hours": 72.35
+  },
+  {
+    "vehicle_number": "FKN00GL4107",
+    "total_occurrences": 18,
+    "unique_creators": 15,
+    "first_seen": "2023-11-28T04:43:46+00:00",
+    "last_seen": "2024-02-27T06:39:46+00:00",
+    "avg_days_between_occurrences": 5.36,
+    "avg_validation_turnaround_hours": 23.1
+  },
+  {
+    "vehicle_number": "FKN00GL1641",
+    "total_occurrences": 18,
+    "unique_creators": 5,
+    "first_seen": "2023-11-11T03:25:46+00:00",
+    "last_seen": "2024-02-23T08:22:46+00:00",
+    "avg_days_between_occurrences": 6.13,
+    "avg_validation_turnaround_hours": 49.42
+  },
+  {
+    "vehicle_number": "FKN00GL2715",
+    "total_occurrences": 18,
+    "unique_creators": 13,
+    "first_seen": "2023-11-15T23:49:46+00:00",
+    "last_seen": "2024-03-28T03:14:46+00:00",
+    "avg_days_between_occurrences": 7.83,
+    "avg_validation_turnaround_hours": 45.58
+  },
+  {
+    "vehicle_number": "FKN00GL44151",
+    "total_occurrences": 18,
+    "unique_creators": 11,
+    "first_seen": "2023-11-11T03:56:46+00:00",
+    "last_seen": "2024-03-10T23:44:46+00:00",
+    "avg_days_between_occurrences": 7.11,
+    "avg_validation_turnaround_hours": 107.33
+  },
+  {
+    "vehicle_number": "FKN00GL24491",
+    "total_occurrences": 18,
+    "unique_creators": 9,
+    "first_seen": "2023-12-01T01:47:46+00:00",
+    "last_seen": "2024-03-24T00:31:46+00:00",
+    "avg_days_between_occurrences": 6.7,
+    "avg_validation_turnaround_hours": 70.93
   },
   {
     "vehicle_number": "FKN00GL6391",
@@ -1116,121 +1089,31 @@
     "avg_validation_turnaround_hours": 42.98
   },
   {
-    "vehicle_number": "FKN00GL17808",
-    "total_occurrences": 17,
-    "unique_creators": 9,
-    "first_seen": "2023-11-21T04:34:46+00:00",
-    "last_seen": "2024-03-12T21:29:46+00:00",
-    "avg_days_between_occurrences": 7.04,
-    "avg_validation_turnaround_hours": 38.37
+    "vehicle_number": "FKN00GL11705",
+    "total_occurrences": 18,
+    "unique_creators": 10,
+    "first_seen": "2023-11-14T01:00:46+00:00",
+    "last_seen": "2024-01-24T22:04:46+00:00",
+    "avg_days_between_occurrences": 4.23,
+    "avg_validation_turnaround_hours": 57.74
   },
   {
-    "vehicle_number": "FKN00GL0889",
-    "total_occurrences": 17,
-    "unique_creators": 14,
-    "first_seen": "2023-12-16T00:28:46+00:00",
-    "last_seen": "2024-03-15T22:23:46+00:00",
-    "avg_days_between_occurrences": 5.68,
-    "avg_validation_turnaround_hours": 204.69
+    "vehicle_number": "FKN00GL0930",
+    "total_occurrences": 18,
+    "unique_creators": 10,
+    "first_seen": "2023-11-10T23:13:46+00:00",
+    "last_seen": "2024-03-09T00:58:46+00:00",
+    "avg_days_between_occurrences": 7.0,
+    "avg_validation_turnaround_hours": 32.7
   },
   {
-    "vehicle_number": "FKN00GL11577",
-    "total_occurrences": 17,
-    "unique_creators": 6,
-    "first_seen": "2023-11-12T04:01:46+00:00",
-    "last_seen": "2024-04-07T03:11:46+00:00",
-    "avg_days_between_occurrences": 9.19,
-    "avg_validation_turnaround_hours": 55.05
-  },
-  {
-    "vehicle_number": "FKN00GL1880",
-    "total_occurrences": 17,
-    "unique_creators": 11,
-    "first_seen": "2023-11-14T01:01:46+00:00",
-    "last_seen": "2024-03-29T05:33:46+00:00",
-    "avg_days_between_occurrences": 8.51,
-    "avg_validation_turnaround_hours": 86.88
-  },
-  {
-    "vehicle_number": "FKN00GL12904",
-    "total_occurrences": 17,
-    "unique_creators": 7,
-    "first_seen": "2023-12-02T23:30:46+00:00",
-    "last_seen": "2024-02-10T03:56:46+00:00",
-    "avg_days_between_occurrences": 4.32,
-    "avg_validation_turnaround_hours": 57.91
-  },
-  {
-    "vehicle_number": "FKN00GL5111",
-    "total_occurrences": 17,
-    "unique_creators": 7,
-    "first_seen": "2023-11-09T22:50:46+00:00",
-    "last_seen": "2024-04-05T20:41:46+00:00",
-    "avg_days_between_occurrences": 9.24,
-    "avg_validation_turnaround_hours": 150.02
-  },
-  {
-    "vehicle_number": "FKN00GL0049",
-    "total_occurrences": 17,
-    "unique_creators": 2,
-    "first_seen": "2023-11-26T01:31:46+00:00",
-    "last_seen": "2024-03-10T07:11:46+00:00",
-    "avg_days_between_occurrences": 6.58,
-    "avg_validation_turnaround_hours": 120.73
-  },
-  {
-    "vehicle_number": "FKN00GL7952",
-    "total_occurrences": 17,
-    "unique_creators": 1,
-    "first_seen": "2024-02-14T21:00:46+00:00",
-    "last_seen": "2024-04-07T20:59:46+00:00",
-    "avg_days_between_occurrences": 3.31,
-    "avg_validation_turnaround_hours": 736.31
-  },
-  {
-    "vehicle_number": "FKN00GL10031",
-    "total_occurrences": 17,
-    "unique_creators": 12,
-    "first_seen": "2023-11-21T23:21:46+00:00",
-    "last_seen": "2024-03-15T00:56:46+00:00",
-    "avg_days_between_occurrences": 7.13,
-    "avg_validation_turnaround_hours": 113.39
-  },
-  {
-    "vehicle_number": "FKN00GL5280",
-    "total_occurrences": 17,
-    "unique_creators": 1,
-    "first_seen": "2023-11-10T21:03:46+00:00",
-    "last_seen": "2024-04-03T21:55:46+00:00",
-    "avg_days_between_occurrences": 9.06,
-    "avg_validation_turnaround_hours": 371.77
-  },
-  {
-    "vehicle_number": "FKN00GL3502",
-    "total_occurrences": 17,
-    "unique_creators": 11,
-    "first_seen": "2023-11-15T02:23:46+00:00",
-    "last_seen": "2024-03-28T08:03:46+00:00",
-    "avg_days_between_occurrences": 8.39,
-    "avg_validation_turnaround_hours": 29.25
-  },
-  {
-    "vehicle_number": "FKN00GL13988",
-    "total_occurrences": 17,
-    "unique_creators": 6,
-    "first_seen": "2023-11-25T00:36:46+00:00",
-    "last_seen": "2024-03-09T00:41:46+00:00",
-    "avg_days_between_occurrences": 6.56,
-    "avg_validation_turnaround_hours": 48.6
-  },
-  {
-    "vehicle_number": "FKN00GL3695",
-    "total_occurrences": 17,
-    "unique_creators": 12,
-    "first_seen": "2024-01-10T06:16:46+00:00",
-    "last_seen": "2024-04-06T05:06:46+00:00",
-    "avg_days_between_occurrences": 5.43,
-    "avg_validation_turnaround_hours": 131.57
+    "vehicle_number": "FKN00GL1032",
+    "total_occurrences": 18,
+    "unique_creators": 13,
+    "first_seen": "2023-12-13T02:23:46+00:00",
+    "last_seen": "2024-03-15T22:03:46+00:00",
+    "avg_days_between_occurrences": 5.52,
+    "avg_validation_turnaround_hours": 183.68
   },
   {
     "vehicle_number": "FKN00GL18168",
@@ -1242,13 +1125,49 @@
     "avg_validation_turnaround_hours": 47.06
   },
   {
-    "vehicle_number": "FKN00GL25145",
+    "vehicle_number": "FKN00GL111727",
     "total_occurrences": 17,
-    "unique_creators": 8,
-    "first_seen": "2023-11-13T06:16:46+00:00",
-    "last_seen": "2024-04-01T06:09:46+00:00",
-    "avg_days_between_occurrences": 8.75,
-    "avg_validation_turnaround_hours": 43.25
+    "unique_creators": 11,
+    "first_seen": "2023-11-14T05:40:46+00:00",
+    "last_seen": "2024-01-03T05:52:46+00:00",
+    "avg_days_between_occurrences": 3.13,
+    "avg_validation_turnaround_hours": 35.0
+  },
+  {
+    "vehicle_number": "FKN00GL7952",
+    "total_occurrences": 17,
+    "unique_creators": 1,
+    "first_seen": "2024-02-14T21:00:46+00:00",
+    "last_seen": "2024-04-07T20:59:46+00:00",
+    "avg_days_between_occurrences": 3.31,
+    "avg_validation_turnaround_hours": 736.31
+  },
+  {
+    "vehicle_number": "FKN00GL12904",
+    "total_occurrences": 17,
+    "unique_creators": 7,
+    "first_seen": "2023-12-02T23:30:46+00:00",
+    "last_seen": "2024-02-10T03:56:46+00:00",
+    "avg_days_between_occurrences": 4.32,
+    "avg_validation_turnaround_hours": 57.91
+  },
+  {
+    "vehicle_number": "FKN00GL5280",
+    "total_occurrences": 17,
+    "unique_creators": 1,
+    "first_seen": "2023-11-10T21:03:46+00:00",
+    "last_seen": "2024-04-03T21:55:46+00:00",
+    "avg_days_between_occurrences": 9.06,
+    "avg_validation_turnaround_hours": 371.77
+  },
+  {
+    "vehicle_number": "FKN00GL1880",
+    "total_occurrences": 17,
+    "unique_creators": 11,
+    "first_seen": "2023-11-14T01:01:46+00:00",
+    "last_seen": "2024-03-29T05:33:46+00:00",
+    "avg_days_between_occurrences": 8.51,
+    "avg_validation_turnaround_hours": 86.88
   },
   {
     "vehicle_number": "FKN00GL73563",
@@ -1260,33 +1179,6 @@
     "avg_validation_turnaround_hours": 229.67
   },
   {
-    "vehicle_number": "FKN00GL2317",
-    "total_occurrences": 17,
-    "unique_creators": 12,
-    "first_seen": "2023-11-12T07:34:46+00:00",
-    "last_seen": "2024-02-23T02:22:46+00:00",
-    "avg_days_between_occurrences": 6.42,
-    "avg_validation_turnaround_hours": 48.54
-  },
-  {
-    "vehicle_number": "FKN00GL111727",
-    "total_occurrences": 17,
-    "unique_creators": 11,
-    "first_seen": "2023-11-14T05:40:46+00:00",
-    "last_seen": "2024-01-03T05:52:46+00:00",
-    "avg_days_between_occurrences": 3.13,
-    "avg_validation_turnaround_hours": 35.0
-  },
-  {
-    "vehicle_number": "FKN00GL0397",
-    "total_occurrences": 17,
-    "unique_creators": 9,
-    "first_seen": "2023-11-12T00:18:46+00:00",
-    "last_seen": "2024-04-07T02:59:46+00:00",
-    "avg_days_between_occurrences": 9.19,
-    "avg_validation_turnaround_hours": 104.59
-  },
-  {
     "vehicle_number": "FKN00GL8154",
     "total_occurrences": 17,
     "unique_creators": 6,
@@ -1294,6 +1186,87 @@
     "last_seen": "2024-02-24T08:18:46+00:00",
     "avg_days_between_occurrences": 4.32,
     "avg_validation_turnaround_hours": 47.25
+  },
+  {
+    "vehicle_number": "FKN00GL0049",
+    "total_occurrences": 17,
+    "unique_creators": 2,
+    "first_seen": "2023-11-26T01:31:46+00:00",
+    "last_seen": "2024-03-10T07:11:46+00:00",
+    "avg_days_between_occurrences": 6.58,
+    "avg_validation_turnaround_hours": 120.73
+  },
+  {
+    "vehicle_number": "FKN00GL17808",
+    "total_occurrences": 17,
+    "unique_creators": 9,
+    "first_seen": "2023-11-21T04:34:46+00:00",
+    "last_seen": "2024-03-12T21:29:46+00:00",
+    "avg_days_between_occurrences": 7.04,
+    "avg_validation_turnaround_hours": 38.37
+  },
+  {
+    "vehicle_number": "FKN00GL3502",
+    "total_occurrences": 17,
+    "unique_creators": 11,
+    "first_seen": "2023-11-15T02:23:46+00:00",
+    "last_seen": "2024-03-28T08:03:46+00:00",
+    "avg_days_between_occurrences": 8.39,
+    "avg_validation_turnaround_hours": 29.25
+  },
+  {
+    "vehicle_number": "FKN00GL10031",
+    "total_occurrences": 17,
+    "unique_creators": 12,
+    "first_seen": "2023-11-21T23:21:46+00:00",
+    "last_seen": "2024-03-15T00:56:46+00:00",
+    "avg_days_between_occurrences": 7.13,
+    "avg_validation_turnaround_hours": 113.39
+  },
+  {
+    "vehicle_number": "FKN00GL3695",
+    "total_occurrences": 17,
+    "unique_creators": 12,
+    "first_seen": "2024-01-10T06:16:46+00:00",
+    "last_seen": "2024-04-06T05:06:46+00:00",
+    "avg_days_between_occurrences": 5.43,
+    "avg_validation_turnaround_hours": 131.57
+  },
+  {
+    "vehicle_number": "FKN00GL25145",
+    "total_occurrences": 17,
+    "unique_creators": 8,
+    "first_seen": "2023-11-13T06:16:46+00:00",
+    "last_seen": "2024-04-01T06:09:46+00:00",
+    "avg_days_between_occurrences": 8.75,
+    "avg_validation_turnaround_hours": 43.25
+  },
+  {
+    "vehicle_number": "FKN00GL13988",
+    "total_occurrences": 17,
+    "unique_creators": 6,
+    "first_seen": "2023-11-25T00:36:46+00:00",
+    "last_seen": "2024-03-09T00:41:46+00:00",
+    "avg_days_between_occurrences": 6.56,
+    "avg_validation_turnaround_hours": 48.6
+  },
+  {
+    "vehicle_number": "FKN00GL5111",
+    "total_occurrences": 17,
+    "unique_creators": 7,
+    "first_seen": "2023-11-09T22:50:46+00:00",
+    "last_seen": "2024-04-05T20:41:46+00:00",
+    "avg_days_between_occurrences": 9.24,
+    "avg_validation_turnaround_hours": 150.02
+  },
+  {
+    "vehicle_number": "FKN00GL0889",
+    "total_occurrences": 17,
+    "unique_creators": 14,
+    "first_seen": "2023-12-16T00:28:46+00:00",
+    "last_seen": "2024-03-15T22:23:46+00:00",
+    "avg_days_between_occurrences": 5.68,
+    "avg_validation_turnaround_hours": 204.69
   },
   {
     "vehicle_number": "FKN00GL58024",
@@ -1305,6 +1278,33 @@
     "avg_validation_turnaround_hours": 40.14
   },
   {
+    "vehicle_number": "FKN00GL0397",
+    "total_occurrences": 17,
+    "unique_creators": 9,
+    "first_seen": "2023-11-12T00:18:46+00:00",
+    "last_seen": "2024-04-07T02:59:46+00:00",
+    "avg_days_between_occurrences": 9.19,
+    "avg_validation_turnaround_hours": 104.59
+  },
+  {
+    "vehicle_number": "FKN00GL11577",
+    "total_occurrences": 17,
+    "unique_creators": 6,
+    "first_seen": "2023-11-12T04:01:46+00:00",
+    "last_seen": "2024-04-07T03:11:46+00:00",
+    "avg_days_between_occurrences": 9.19,
+    "avg_validation_turnaround_hours": 55.05
+  },
+  {
+    "vehicle_number": "FKN00GL2317",
+    "total_occurrences": 17,
+    "unique_creators": 12,
+    "first_seen": "2023-11-12T07:34:46+00:00",
+    "last_seen": "2024-02-23T02:22:46+00:00",
+    "avg_days_between_occurrences": 6.42,
+    "avg_validation_turnaround_hours": 48.54
+  },
+  {
     "vehicle_number": "FKN00GL41563",
     "total_occurrences": 17,
     "unique_creators": 1,
@@ -1312,15 +1312,6 @@
     "last_seen": "2024-04-03T21:32:46+00:00",
     "avg_days_between_occurrences": 8.56,
     "avg_validation_turnaround_hours": 491.96
-  },
-  {
-    "vehicle_number": "FKN00GL51416",
-    "total_occurrences": 17,
-    "unique_creators": 12,
-    "first_seen": "2023-12-22T23:46:46+00:00",
-    "last_seen": "2024-04-06T19:33:46+00:00",
-    "avg_days_between_occurrences": 6.61,
-    "avg_validation_turnaround_hours": 31.05
   },
   {
     "vehicle_number": "FKN00GL7926",
@@ -1332,94 +1323,13 @@
     "avg_validation_turnaround_hours": 43.35
   },
   {
-    "vehicle_number": "FKN00GL14212",
-    "total_occurrences": 16,
+    "vehicle_number": "FKN00GL51416",
+    "total_occurrences": 17,
     "unique_creators": 12,
-    "first_seen": "2023-11-29T01:33:46+00:00",
-    "last_seen": "2024-04-06T05:13:46+00:00",
-    "avg_days_between_occurrences": 8.61,
-    "avg_validation_turnaround_hours": 22.15
-  },
-  {
-    "vehicle_number": "FKN00GL0990",
-    "total_occurrences": 16,
-    "unique_creators": 10,
-    "first_seen": "2023-12-09T00:36:46+00:00",
-    "last_seen": "2024-03-20T04:20:46+00:00",
-    "avg_days_between_occurrences": 6.81,
-    "avg_validation_turnaround_hours": 119.63
-  },
-  {
-    "vehicle_number": "FKN00GL4516",
-    "total_occurrences": 16,
-    "unique_creators": 10,
-    "first_seen": "2023-11-10T21:45:46+00:00",
-    "last_seen": "2024-04-04T19:43:46+00:00",
-    "avg_days_between_occurrences": 9.73,
-    "avg_validation_turnaround_hours": 86.46
-  },
-  {
-    "vehicle_number": "FKN00GL27365",
-    "total_occurrences": 16,
-    "unique_creators": 8,
-    "first_seen": "2023-11-10T03:04:46+00:00",
-    "last_seen": "2024-04-07T00:38:46+00:00",
-    "avg_days_between_occurrences": 9.93,
-    "avg_validation_turnaround_hours": 56.05
-  },
-  {
-    "vehicle_number": "FKN00GL2996",
-    "total_occurrences": 16,
-    "unique_creators": 13,
-    "first_seen": "2023-11-21T22:25:46+00:00",
-    "last_seen": "2024-04-02T02:04:46+00:00",
-    "avg_days_between_occurrences": 8.81,
-    "avg_validation_turnaround_hours": 38.01
-  },
-  {
-    "vehicle_number": "FKN00GL14734",
-    "total_occurrences": 16,
-    "unique_creators": 7,
-    "first_seen": "2023-11-17T05:53:46+00:00",
-    "last_seen": "2024-04-07T01:57:46+00:00",
-    "avg_days_between_occurrences": 9.46,
-    "avg_validation_turnaround_hours": 69.12
-  },
-  {
-    "vehicle_number": "FKN00GL1473",
-    "total_occurrences": 16,
-    "unique_creators": 9,
-    "first_seen": "2023-11-28T07:18:46+00:00",
-    "last_seen": "2024-03-27T05:26:46+00:00",
-    "avg_days_between_occurrences": 7.99,
-    "avg_validation_turnaround_hours": 45.29
-  },
-  {
-    "vehicle_number": "FKN00GL0923",
-    "total_occurrences": 16,
-    "unique_creators": 9,
-    "first_seen": "2023-11-15T23:19:46+00:00",
-    "last_seen": "2024-03-15T00:20:46+00:00",
-    "avg_days_between_occurrences": 8.0,
-    "avg_validation_turnaround_hours": 170.53
-  },
-  {
-    "vehicle_number": "FKN00GL0938",
-    "total_occurrences": 16,
-    "unique_creators": 9,
-    "first_seen": "2024-01-05T22:24:46+00:00",
-    "last_seen": "2024-03-22T02:40:46+00:00",
-    "avg_days_between_occurrences": 5.08,
-    "avg_validation_turnaround_hours": 287.3
-  },
-  {
-    "vehicle_number": "FKN00GL6780",
-    "total_occurrences": 16,
-    "unique_creators": 5,
-    "first_seen": "2023-12-11T23:27:46+00:00",
-    "last_seen": "2024-03-05T21:50:46+00:00",
-    "avg_days_between_occurrences": 5.66,
-    "avg_validation_turnaround_hours": 66.2
+    "first_seen": "2023-12-22T23:46:46+00:00",
+    "last_seen": "2024-04-06T19:33:46+00:00",
+    "avg_days_between_occurrences": 6.61,
+    "avg_validation_turnaround_hours": 31.05
   },
   {
     "vehicle_number": "FKN00GL9032",
@@ -1431,40 +1341,13 @@
     "avg_validation_turnaround_hours": 73.4
   },
   {
-    "vehicle_number": "FKN00GL50347",
-    "total_occurrences": 16,
-    "unique_creators": 11,
-    "first_seen": "2023-11-11T00:12:46+00:00",
-    "last_seen": "2024-04-04T01:40:46+00:00",
-    "avg_days_between_occurrences": 9.67,
-    "avg_validation_turnaround_hours": 42.71
-  },
-  {
-    "vehicle_number": "FKN00GL6630",
-    "total_occurrences": 16,
-    "unique_creators": 4,
-    "first_seen": "2024-01-29T23:52:46+00:00",
-    "last_seen": "2024-03-30T06:18:46+00:00",
-    "avg_days_between_occurrences": 4.02,
-    "avg_validation_turnaround_hours": 103.46
-  },
-  {
-    "vehicle_number": "FKN00GL62335",
+    "vehicle_number": "FKN00GL40079",
     "total_occurrences": 16,
     "unique_creators": 3,
-    "first_seen": "2023-11-22T05:15:46+00:00",
-    "last_seen": "2024-04-05T22:20:46+00:00",
-    "avg_days_between_occurrences": 9.05,
-    "avg_validation_turnaround_hours": 57.42
-  },
-  {
-    "vehicle_number": "FKN00GL10586",
-    "total_occurrences": 16,
-    "unique_creators": 14,
-    "first_seen": "2023-12-09T21:38:46+00:00",
-    "last_seen": "2024-04-03T03:15:46+00:00",
-    "avg_days_between_occurrences": 7.68,
-    "avg_validation_turnaround_hours": 352.58
+    "first_seen": "2023-11-11T04:19:46+00:00",
+    "last_seen": "2024-03-23T05:18:46+00:00",
+    "avg_days_between_occurrences": 8.87,
+    "avg_validation_turnaround_hours": 89.9
   },
   {
     "vehicle_number": "FKN00GL49799",
@@ -1476,31 +1359,103 @@
     "avg_validation_turnaround_hours": 33.41
   },
   {
-    "vehicle_number": "FKN00GL16534",
+    "vehicle_number": "FKN00GL7945",
+    "total_occurrences": 16,
+    "unique_creators": 6,
+    "first_seen": "2024-01-17T05:17:46+00:00",
+    "last_seen": "2024-02-15T06:12:46+00:00",
+    "avg_days_between_occurrences": 1.94,
+    "avg_validation_turnaround_hours": 36.35
+  },
+  {
+    "vehicle_number": "FKN00GL10586",
+    "total_occurrences": 16,
+    "unique_creators": 14,
+    "first_seen": "2023-12-09T21:38:46+00:00",
+    "last_seen": "2024-04-03T03:15:46+00:00",
+    "avg_days_between_occurrences": 7.68,
+    "avg_validation_turnaround_hours": 352.58
+  },
+  {
+    "vehicle_number": "FKN00GL14212",
     "total_occurrences": 16,
     "unique_creators": 12,
-    "first_seen": "2023-12-22T01:14:46+00:00",
-    "last_seen": "2024-03-22T02:28:46+00:00",
-    "avg_days_between_occurrences": 6.07,
-    "avg_validation_turnaround_hours": 123.57
+    "first_seen": "2023-11-29T01:33:46+00:00",
+    "last_seen": "2024-04-06T05:13:46+00:00",
+    "avg_days_between_occurrences": 8.61,
+    "avg_validation_turnaround_hours": 22.15
   },
   {
-    "vehicle_number": "FKN00GL6175",
+    "vehicle_number": "FKN00GL32407",
     "total_occurrences": 16,
-    "unique_creators": 1,
-    "first_seen": "2023-11-12T04:16:46+00:00",
-    "last_seen": "2024-02-02T04:12:46+00:00",
-    "avg_days_between_occurrences": 5.47,
-    "avg_validation_turnaround_hours": 41.03
+    "unique_creators": 12,
+    "first_seen": "2023-11-11T00:51:46+00:00",
+    "last_seen": "2024-03-26T03:31:46+00:00",
+    "avg_days_between_occurrences": 9.07,
+    "avg_validation_turnaround_hours": 34.99
   },
   {
-    "vehicle_number": "FKN00GL40079",
+    "vehicle_number": "FKN00GL4759",
     "total_occurrences": 16,
-    "unique_creators": 3,
-    "first_seen": "2023-11-11T04:19:46+00:00",
-    "last_seen": "2024-03-23T05:18:46+00:00",
-    "avg_days_between_occurrences": 8.87,
-    "avg_validation_turnaround_hours": 89.9
+    "unique_creators": 15,
+    "first_seen": "2023-11-20T05:17:46+00:00",
+    "last_seen": "2024-04-04T02:59:46+00:00",
+    "avg_days_between_occurrences": 9.06,
+    "avg_validation_turnaround_hours": 110.98
+  },
+  {
+    "vehicle_number": "FKN00GL68690",
+    "total_occurrences": 16,
+    "unique_creators": 6,
+    "first_seen": "2023-11-14T19:52:46+00:00",
+    "last_seen": "2024-03-11T03:31:46+00:00",
+    "avg_days_between_occurrences": 7.82,
+    "avg_validation_turnaround_hours": 107.77
+  },
+  {
+    "vehicle_number": "FKN00GL0938",
+    "total_occurrences": 16,
+    "unique_creators": 9,
+    "first_seen": "2024-01-05T22:24:46+00:00",
+    "last_seen": "2024-03-22T02:40:46+00:00",
+    "avg_days_between_occurrences": 5.08,
+    "avg_validation_turnaround_hours": 287.3
+  },
+  {
+    "vehicle_number": "FKN00GL0923",
+    "total_occurrences": 16,
+    "unique_creators": 9,
+    "first_seen": "2023-11-15T23:19:46+00:00",
+    "last_seen": "2024-03-15T00:20:46+00:00",
+    "avg_days_between_occurrences": 8.0,
+    "avg_validation_turnaround_hours": 170.53
+  },
+  {
+    "vehicle_number": "FKN00GL35636",
+    "total_occurrences": 16,
+    "unique_creators": 5,
+    "first_seen": "2023-11-17T01:59:46+00:00",
+    "last_seen": "2024-03-07T00:24:46+00:00",
+    "avg_days_between_occurrences": 7.4,
+    "avg_validation_turnaround_hours": 39.99
+  },
+  {
+    "vehicle_number": "FKN00GL32527",
+    "total_occurrences": 16,
+    "unique_creators": 6,
+    "first_seen": "2023-11-11T03:21:46+00:00",
+    "last_seen": "2024-03-27T01:50:46+00:00",
+    "avg_days_between_occurrences": 9.13,
+    "avg_validation_turnaround_hours": 60.31
+  },
+  {
+    "vehicle_number": "FKN00GL0990",
+    "total_occurrences": 16,
+    "unique_creators": 10,
+    "first_seen": "2023-12-09T00:36:46+00:00",
+    "last_seen": "2024-03-20T04:20:46+00:00",
+    "avg_days_between_occurrences": 6.81,
+    "avg_validation_turnaround_hours": 119.63
   },
   {
     "vehicle_number": "FKN00GL16984",
@@ -1521,157 +1476,13 @@
     "avg_validation_turnaround_hours": 146.88
   },
   {
-    "vehicle_number": "FKN00GL32407",
-    "total_occurrences": 16,
-    "unique_creators": 12,
-    "first_seen": "2023-11-11T00:51:46+00:00",
-    "last_seen": "2024-03-26T03:31:46+00:00",
-    "avg_days_between_occurrences": 9.07,
-    "avg_validation_turnaround_hours": 34.99
-  },
-  {
-    "vehicle_number": "FKN00GL17853",
+    "vehicle_number": "FKN00GL27365",
     "total_occurrences": 16,
     "unique_creators": 8,
-    "first_seen": "2023-11-15T03:29:46+00:00",
-    "last_seen": "2024-03-27T03:02:46+00:00",
-    "avg_days_between_occurrences": 8.87,
-    "avg_validation_turnaround_hours": 23.26
-  },
-  {
-    "vehicle_number": "FKN00GL38195",
-    "total_occurrences": 16,
-    "unique_creators": 12,
-    "first_seen": "2023-11-19T03:00:46+00:00",
-    "last_seen": "2024-04-04T07:54:46+00:00",
-    "avg_days_between_occurrences": 9.15,
-    "avg_validation_turnaround_hours": 120.11
-  },
-  {
-    "vehicle_number": "FKN00GL54261",
-    "total_occurrences": 16,
-    "unique_creators": 10,
-    "first_seen": "2023-12-09T00:36:46+00:00",
-    "last_seen": "2024-03-22T02:40:46+00:00",
-    "avg_days_between_occurrences": 6.94,
-    "avg_validation_turnaround_hours": 44.28
-  },
-  {
-    "vehicle_number": "FKN00GL2863",
-    "total_occurrences": 16,
-    "unique_creators": 5,
-    "first_seen": "2023-12-06T23:03:46+00:00",
-    "last_seen": "2024-02-01T03:10:46+00:00",
-    "avg_days_between_occurrences": 3.74,
-    "avg_validation_turnaround_hours": 219.87
-  },
-  {
-    "vehicle_number": "FKN00GL101845",
-    "total_occurrences": 16,
-    "unique_creators": 10,
-    "first_seen": "2023-11-14T04:46:46+00:00",
-    "last_seen": "2023-12-30T03:04:46+00:00",
-    "avg_days_between_occurrences": 3.06,
-    "avg_validation_turnaround_hours": 53.03
-  },
-  {
-    "vehicle_number": "FKN00GL7945",
-    "total_occurrences": 16,
-    "unique_creators": 6,
-    "first_seen": "2024-01-17T05:17:46+00:00",
-    "last_seen": "2024-02-15T06:12:46+00:00",
-    "avg_days_between_occurrences": 1.94,
-    "avg_validation_turnaround_hours": 36.35
-  },
-  {
-    "vehicle_number": "FKN00GL23586",
-    "total_occurrences": 16,
-    "unique_creators": 7,
-    "first_seen": "2023-12-31T04:32:46+00:00",
-    "last_seen": "2024-03-30T08:25:46+00:00",
-    "avg_days_between_occurrences": 6.01,
-    "avg_validation_turnaround_hours": 115.74
-  },
-  {
-    "vehicle_number": "FKN00GL2353",
-    "total_occurrences": 16,
-    "unique_creators": 10,
-    "first_seen": "2023-11-17T20:33:46+00:00",
-    "last_seen": "2024-04-07T20:06:46+00:00",
-    "avg_days_between_occurrences": 9.47,
-    "avg_validation_turnaround_hours": 186.48
-  },
-  {
-    "vehicle_number": "FKN00GL31097",
-    "total_occurrences": 16,
-    "unique_creators": 6,
-    "first_seen": "2023-11-26T04:22:46+00:00",
-    "last_seen": "2024-03-05T07:14:46+00:00",
-    "avg_days_between_occurrences": 6.67,
-    "avg_validation_turnaround_hours": 223.62
-  },
-  {
-    "vehicle_number": "FKN00GL68690",
-    "total_occurrences": 16,
-    "unique_creators": 6,
-    "first_seen": "2023-11-14T19:52:46+00:00",
-    "last_seen": "2024-03-11T03:31:46+00:00",
-    "avg_days_between_occurrences": 7.82,
-    "avg_validation_turnaround_hours": 107.77
-  },
-  {
-    "vehicle_number": "FKN00GL16020",
-    "total_occurrences": 16,
-    "unique_creators": 13,
-    "first_seen": "2023-12-11T23:17:46+00:00",
-    "last_seen": "2024-04-06T19:34:46+00:00",
-    "avg_days_between_occurrences": 7.79,
-    "avg_validation_turnaround_hours": 17.1
-  },
-  {
-    "vehicle_number": "FKN00GL32527",
-    "total_occurrences": 16,
-    "unique_creators": 6,
-    "first_seen": "2023-11-11T03:21:46+00:00",
-    "last_seen": "2024-03-27T01:50:46+00:00",
-    "avg_days_between_occurrences": 9.13,
-    "avg_validation_turnaround_hours": 60.31
-  },
-  {
-    "vehicle_number": "FKN00GL7161",
-    "total_occurrences": 16,
-    "unique_creators": 3,
-    "first_seen": "2023-11-16T21:36:46+00:00",
-    "last_seen": "2024-02-15T22:15:46+00:00",
-    "avg_days_between_occurrences": 6.07,
-    "avg_validation_turnaround_hours": 51.92
-  },
-  {
-    "vehicle_number": "FKN00GL17572",
-    "total_occurrences": 16,
-    "unique_creators": 11,
-    "first_seen": "2023-12-09T19:46:46+00:00",
-    "last_seen": "2024-01-19T05:22:46+00:00",
-    "avg_days_between_occurrences": 2.69,
-    "avg_validation_turnaround_hours": 27.01
-  },
-  {
-    "vehicle_number": "FKN00GL15642",
-    "total_occurrences": 16,
-    "unique_creators": 6,
-    "first_seen": "2023-12-12T23:05:46+00:00",
-    "last_seen": "2024-04-04T04:36:46+00:00",
-    "avg_days_between_occurrences": 7.55,
-    "avg_validation_turnaround_hours": 42.85
-  },
-  {
-    "vehicle_number": "FKN00GL35636",
-    "total_occurrences": 16,
-    "unique_creators": 5,
-    "first_seen": "2023-11-17T01:59:46+00:00",
-    "last_seen": "2024-03-07T00:24:46+00:00",
-    "avg_days_between_occurrences": 7.4,
-    "avg_validation_turnaround_hours": 39.99
+    "first_seen": "2023-11-10T03:04:46+00:00",
+    "last_seen": "2024-04-07T00:38:46+00:00",
+    "avg_days_between_occurrences": 9.93,
+    "avg_validation_turnaround_hours": 56.05
   },
   {
     "vehicle_number": "FKN00GL11800",
@@ -1683,22 +1494,13 @@
     "avg_validation_turnaround_hours": 36.39
   },
   {
-    "vehicle_number": "FKN00GL9159",
+    "vehicle_number": "FKN00GL23586",
     "total_occurrences": 16,
-    "unique_creators": 3,
-    "first_seen": "2024-02-01T05:20:46+00:00",
-    "last_seen": "2024-04-06T09:30:46+00:00",
-    "avg_days_between_occurrences": 4.34,
-    "avg_validation_turnaround_hours": 329.9
-  },
-  {
-    "vehicle_number": "FKN00GL4759",
-    "total_occurrences": 16,
-    "unique_creators": 15,
-    "first_seen": "2023-11-20T05:17:46+00:00",
-    "last_seen": "2024-04-04T02:59:46+00:00",
-    "avg_days_between_occurrences": 9.06,
-    "avg_validation_turnaround_hours": 110.98
+    "unique_creators": 7,
+    "first_seen": "2023-12-31T04:32:46+00:00",
+    "last_seen": "2024-03-30T08:25:46+00:00",
+    "avg_days_between_occurrences": 6.01,
+    "avg_validation_turnaround_hours": 115.74
   },
   {
     "vehicle_number": "FKN00GL0088",
@@ -1710,6 +1512,87 @@
     "avg_validation_turnaround_hours": 43.23
   },
   {
+    "vehicle_number": "FKN00GL2353",
+    "total_occurrences": 16,
+    "unique_creators": 10,
+    "first_seen": "2023-11-17T20:33:46+00:00",
+    "last_seen": "2024-04-07T20:06:46+00:00",
+    "avg_days_between_occurrences": 9.47,
+    "avg_validation_turnaround_hours": 186.48
+  },
+  {
+    "vehicle_number": "FKN00GL101845",
+    "total_occurrences": 16,
+    "unique_creators": 10,
+    "first_seen": "2023-11-14T04:46:46+00:00",
+    "last_seen": "2023-12-30T03:04:46+00:00",
+    "avg_days_between_occurrences": 3.06,
+    "avg_validation_turnaround_hours": 53.03
+  },
+  {
+    "vehicle_number": "FKN00GL6780",
+    "total_occurrences": 16,
+    "unique_creators": 5,
+    "first_seen": "2023-12-11T23:27:46+00:00",
+    "last_seen": "2024-03-05T21:50:46+00:00",
+    "avg_days_between_occurrences": 5.66,
+    "avg_validation_turnaround_hours": 66.2
+  },
+  {
+    "vehicle_number": "FKN00GL16534",
+    "total_occurrences": 16,
+    "unique_creators": 12,
+    "first_seen": "2023-12-22T01:14:46+00:00",
+    "last_seen": "2024-03-22T02:28:46+00:00",
+    "avg_days_between_occurrences": 6.07,
+    "avg_validation_turnaround_hours": 123.57
+  },
+  {
+    "vehicle_number": "FKN00GL17572",
+    "total_occurrences": 16,
+    "unique_creators": 11,
+    "first_seen": "2023-12-09T19:46:46+00:00",
+    "last_seen": "2024-01-19T05:22:46+00:00",
+    "avg_days_between_occurrences": 2.69,
+    "avg_validation_turnaround_hours": 27.01
+  },
+  {
+    "vehicle_number": "FKN00GL6630",
+    "total_occurrences": 16,
+    "unique_creators": 4,
+    "first_seen": "2024-01-29T23:52:46+00:00",
+    "last_seen": "2024-03-30T06:18:46+00:00",
+    "avg_days_between_occurrences": 4.02,
+    "avg_validation_turnaround_hours": 103.46
+  },
+  {
+    "vehicle_number": "FKN00GL38195",
+    "total_occurrences": 16,
+    "unique_creators": 12,
+    "first_seen": "2023-11-19T03:00:46+00:00",
+    "last_seen": "2024-04-04T07:54:46+00:00",
+    "avg_days_between_occurrences": 9.15,
+    "avg_validation_turnaround_hours": 120.11
+  },
+  {
+    "vehicle_number": "FKN00GL4516",
+    "total_occurrences": 16,
+    "unique_creators": 10,
+    "first_seen": "2023-11-10T21:45:46+00:00",
+    "last_seen": "2024-04-04T19:43:46+00:00",
+    "avg_days_between_occurrences": 9.73,
+    "avg_validation_turnaround_hours": 86.46
+  },
+  {
+    "vehicle_number": "FKN00GL50347",
+    "total_occurrences": 16,
+    "unique_creators": 11,
+    "first_seen": "2023-11-11T00:12:46+00:00",
+    "last_seen": "2024-04-04T01:40:46+00:00",
+    "avg_days_between_occurrences": 9.67,
+    "avg_validation_turnaround_hours": 42.71
+  },
+  {
     "vehicle_number": "FKN00GL15781",
     "total_occurrences": 16,
     "unique_creators": 11,
@@ -1719,31 +1602,148 @@
     "avg_validation_turnaround_hours": 246.0
   },
   {
-    "vehicle_number": "FKN00GL8470",
-    "total_occurrences": 15,
+    "vehicle_number": "FKN00GL2863",
+    "total_occurrences": 16,
     "unique_creators": 5,
-    "first_seen": "2023-11-12T03:24:46+00:00",
-    "last_seen": "2024-04-06T19:25:46+00:00",
-    "avg_days_between_occurrences": 10.48,
-    "avg_validation_turnaround_hours": 87.33
+    "first_seen": "2023-12-06T23:03:46+00:00",
+    "last_seen": "2024-02-01T03:10:46+00:00",
+    "avg_days_between_occurrences": 3.74,
+    "avg_validation_turnaround_hours": 219.87
   },
   {
-    "vehicle_number": "FKN00GL18326",
-    "total_occurrences": 15,
-    "unique_creators": 4,
-    "first_seen": "2023-12-16T06:54:46+00:00",
-    "last_seen": "2024-03-30T06:29:46+00:00",
-    "avg_days_between_occurrences": 7.5,
-    "avg_validation_turnaround_hours": 54.29
+    "vehicle_number": "FKN00GL14734",
+    "total_occurrences": 16,
+    "unique_creators": 7,
+    "first_seen": "2023-11-17T05:53:46+00:00",
+    "last_seen": "2024-04-07T01:57:46+00:00",
+    "avg_days_between_occurrences": 9.46,
+    "avg_validation_turnaround_hours": 69.12
   },
   {
-    "vehicle_number": "FKN00GL26490",
-    "total_occurrences": 15,
+    "vehicle_number": "FKN00GL7161",
+    "total_occurrences": 16,
+    "unique_creators": 3,
+    "first_seen": "2023-11-16T21:36:46+00:00",
+    "last_seen": "2024-02-15T22:15:46+00:00",
+    "avg_days_between_occurrences": 6.07,
+    "avg_validation_turnaround_hours": 51.92
+  },
+  {
+    "vehicle_number": "FKN00GL2996",
+    "total_occurrences": 16,
+    "unique_creators": 13,
+    "first_seen": "2023-11-21T22:25:46+00:00",
+    "last_seen": "2024-04-02T02:04:46+00:00",
+    "avg_days_between_occurrences": 8.81,
+    "avg_validation_turnaround_hours": 38.01
+  },
+  {
+    "vehicle_number": "FKN00GL62335",
+    "total_occurrences": 16,
+    "unique_creators": 3,
+    "first_seen": "2023-11-22T05:15:46+00:00",
+    "last_seen": "2024-04-05T22:20:46+00:00",
+    "avg_days_between_occurrences": 9.05,
+    "avg_validation_turnaround_hours": 57.42
+  },
+  {
+    "vehicle_number": "FKN00GL17853",
+    "total_occurrences": 16,
+    "unique_creators": 8,
+    "first_seen": "2023-11-15T03:29:46+00:00",
+    "last_seen": "2024-03-27T03:02:46+00:00",
+    "avg_days_between_occurrences": 8.87,
+    "avg_validation_turnaround_hours": 23.26
+  },
+  {
+    "vehicle_number": "FKN00GL1473",
+    "total_occurrences": 16,
+    "unique_creators": 9,
+    "first_seen": "2023-11-28T07:18:46+00:00",
+    "last_seen": "2024-03-27T05:26:46+00:00",
+    "avg_days_between_occurrences": 7.99,
+    "avg_validation_turnaround_hours": 45.29
+  },
+  {
+    "vehicle_number": "FKN00GL54261",
+    "total_occurrences": 16,
+    "unique_creators": 10,
+    "first_seen": "2023-12-09T00:36:46+00:00",
+    "last_seen": "2024-03-22T02:40:46+00:00",
+    "avg_days_between_occurrences": 6.94,
+    "avg_validation_turnaround_hours": 44.28
+  },
+  {
+    "vehicle_number": "FKN00GL6175",
+    "total_occurrences": 16,
     "unique_creators": 1,
-    "first_seen": "2024-03-13T00:58:46+00:00",
-    "last_seen": "2024-03-13T00:58:46+00:00",
-    "avg_days_between_occurrences": 0.0,
-    "avg_validation_turnaround_hours": 550.45
+    "first_seen": "2023-11-12T04:16:46+00:00",
+    "last_seen": "2024-02-02T04:12:46+00:00",
+    "avg_days_between_occurrences": 5.47,
+    "avg_validation_turnaround_hours": 41.03
+  },
+  {
+    "vehicle_number": "FKN00GL31097",
+    "total_occurrences": 16,
+    "unique_creators": 6,
+    "first_seen": "2023-11-26T04:22:46+00:00",
+    "last_seen": "2024-03-05T07:14:46+00:00",
+    "avg_days_between_occurrences": 6.67,
+    "avg_validation_turnaround_hours": 223.62
+  },
+  {
+    "vehicle_number": "FKN00GL15642",
+    "total_occurrences": 16,
+    "unique_creators": 6,
+    "first_seen": "2023-12-12T23:05:46+00:00",
+    "last_seen": "2024-04-04T04:36:46+00:00",
+    "avg_days_between_occurrences": 7.55,
+    "avg_validation_turnaround_hours": 42.85
+  },
+  {
+    "vehicle_number": "FKN00GL16020",
+    "total_occurrences": 16,
+    "unique_creators": 13,
+    "first_seen": "2023-12-11T23:17:46+00:00",
+    "last_seen": "2024-04-06T19:34:46+00:00",
+    "avg_days_between_occurrences": 7.79,
+    "avg_validation_turnaround_hours": 17.1
+  },
+  {
+    "vehicle_number": "FKN00GL9159",
+    "total_occurrences": 16,
+    "unique_creators": 3,
+    "first_seen": "2024-02-01T05:20:46+00:00",
+    "last_seen": "2024-04-06T09:30:46+00:00",
+    "avg_days_between_occurrences": 4.34,
+    "avg_validation_turnaround_hours": 329.9
+  },
+  {
+    "vehicle_number": "FKN00GL10011",
+    "total_occurrences": 15,
+    "unique_creators": 11,
+    "first_seen": "2023-11-16T00:02:46+00:00",
+    "last_seen": "2024-02-24T00:09:46+00:00",
+    "avg_days_between_occurrences": 7.14,
+    "avg_validation_turnaround_hours": 43.27
+  },
+  {
+    "vehicle_number": "FKN00GL12424",
+    "total_occurrences": 15,
+    "unique_creators": 2,
+    "first_seen": "2024-02-04T06:00:46+00:00",
+    "last_seen": "2024-03-08T05:42:46+00:00",
+    "avg_days_between_occurrences": 2.36,
+    "avg_validation_turnaround_hours": 1054.92
+  },
+  {
+    "vehicle_number": "FKN00GL17374",
+    "total_occurrences": 15,
+    "unique_creators": 10,
+    "first_seen": "2024-01-02T01:41:46+00:00",
+    "last_seen": "2024-03-18T22:00:46+00:00",
+    "avg_days_between_occurrences": 5.49,
+    "avg_validation_turnaround_hours": 56.08
   },
   {
     "vehicle_number": "FKN00GL18293",
@@ -1755,31 +1755,22 @@
     "avg_validation_turnaround_hours": 187.41
   },
   {
-    "vehicle_number": "FKN00GL26501",
+    "vehicle_number": "FKN00GL11015",
     "total_occurrences": 15,
-    "unique_creators": 1,
-    "first_seen": "2024-03-13T00:58:46+00:00",
-    "last_seen": "2024-03-13T00:58:46+00:00",
-    "avg_days_between_occurrences": 0.0,
-    "avg_validation_turnaround_hours": 550.44
+    "unique_creators": 13,
+    "first_seen": "2023-11-16T05:46:46+00:00",
+    "last_seen": "2024-03-29T05:31:46+00:00",
+    "avg_days_between_occurrences": 9.57,
+    "avg_validation_turnaround_hours": 36.82
   },
   {
-    "vehicle_number": "FKN00GL2687",
-    "total_occurrences": 15,
-    "unique_creators": 2,
-    "first_seen": "2023-11-14T04:43:46+00:00",
-    "last_seen": "2024-04-06T04:51:46+00:00",
-    "avg_days_between_occurrences": 10.29,
-    "avg_validation_turnaround_hours": 323.13
-  },
-  {
-    "vehicle_number": "FKN00GL19357",
+    "vehicle_number": "FKN00GL44125",
     "total_occurrences": 15,
     "unique_creators": 10,
-    "first_seen": "2023-11-10T21:47:46+00:00",
-    "last_seen": "2024-03-29T22:57:46+00:00",
-    "avg_days_between_occurrences": 10.0,
-    "avg_validation_turnaround_hours": 92.71
+    "first_seen": "2023-11-16T03:47:46+00:00",
+    "last_seen": "2024-04-03T23:07:46+00:00",
+    "avg_days_between_occurrences": 9.99,
+    "avg_validation_turnaround_hours": 32.26
   },
   {
     "vehicle_number": "FKN00GL8261",
@@ -1791,12 +1782,21 @@
     "avg_validation_turnaround_hours": 41.7
   },
   {
-    "vehicle_number": "FKN00GL10011",
+    "vehicle_number": "FKN00GL1301",
     "total_occurrences": 15,
-    "unique_creators": 11,
-    "first_seen": "2023-11-16T00:02:46+00:00",
-    "last_seen": "2024-02-24T00:09:46+00:00",
-    "avg_days_between_occurrences": 7.14,
-    "avg_validation_turnaround_hours": 43.27
+    "unique_creators": 7,
+    "first_seen": "2023-11-30T01:06:46+00:00",
+    "last_seen": "2024-04-01T23:16:46+00:00",
+    "avg_days_between_occurrences": 8.85,
+    "avg_validation_turnaround_hours": 34.69
+  },
+  {
+    "vehicle_number": "FKN00GL18220",
+    "total_occurrences": 15,
+    "unique_creators": 5,
+    "first_seen": "2023-11-15T02:47:46+00:00",
+    "last_seen": "2024-02-23T22:52:46+00:00",
+    "avg_days_between_occurrences": 7.2,
+    "avg_validation_turnaround_hours": 43.86
   }
 ]
